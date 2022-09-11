@@ -18,6 +18,7 @@ https://j.mp/szmjweb
 
 示例：视频播放器真相内容定制
 请用自由门无界破网打开查看二维码助手【3-2】广传平台 的示例。定制步骤如下：
+  
 1、下载一键翻墙客户端（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/szmjweb.zip ）即WEB版（广传平台）定制版，启用对content.json的支持
 用记事本打开index.html，把 <img src="" id="c" rel=""> 替换为 <img src="" id="c" rel=";;;content.json"> 
 
