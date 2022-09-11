@@ -28,23 +28,19 @@ https://j.mp/szmjweb
 用记事本打开index.html，把 <img src="" id="c" rel=""> 替换为 <img src="" id="c" rel=";;;content.json"> 
 
 2、需要把多线路播放数据支持的Player.html（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/Player.html ）、demo.json（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/demo.json ）及相关媒体文件放入content.json所指定的目录才行，Player.html也可以独立下载使用。content.json内容修改为包含Player.html的位置，如：
-jsonpCallback([
+
+  jsonpCallback([
     {
         "title": "样例",
         "css": "background:linear-gradient
-
 (#566AC9,#0A38C2); color:#FFF;",
         "list": [
             {"title": "Player", "url": 
-
 "book_html/Player.html"}        ]
     }
 ]);
 
 3、demo.json的内容可以是相对于Player.html所在目录的本地媒体文件，也可以是网络媒体文件，支持m3u8 流媒体、mp4等，在电脑和手机的 Chrome 测了可以在 Player 里播放。
 
-
-
-3、demo.json的内容可以是相对于Player.html所在目录的本地媒体文件，也可以是网络媒体文件，支持m3u8 流媒体、mp4等，在电脑和手机的 Chrome 测了可以在 Player 里播放。
 
 
