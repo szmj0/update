@@ -1,0 +1,173 @@
+﻿<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HTML5可播放m3u8(hls)</title>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/demo.css">
+<style>
+body{margin:0 0 1px 0}
+body,input,button{font-family:微软雅黑}
+a{text-decoration:none}
+a:hover,a:visited{color:#800080}
+a.w,a.w:hover,a.w:visited{color:white;display:block}
+.btn{border-radius:0.25em;background:#128deb;line-height:1.4em;text-align:center;font-size:1em;color:white;padding:0.5em;cursor:pointer;-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;-khtml-user-select:none;user-select:none}
+#tbList tr.t, #tbList td.t{height: 38px; padding-top: 5px;}
+</style>
+   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script src="https://code.jquery.com/jquery-1.6.2.min.js"></script>
+</head>
+<body onload="loadJson();" bgcolor=#f5f5d5>
+<div align=center><div id=divFile style="margin:5px 0;color:#b1a797;font-weight:bold">&nbsp;</div>
+
+<script>
+	function isLand() {return window.innerWidth > window.innerHeight;}
+	document.write("<div id=divMain align=center style='margin:" + (isLand() ? "0 20%'>" : "0'>"));
+</script>
+<figure id=fp style="margin:0 0 10px;padding:0"><video id=vp style="width:100%;height:100%;object-fit:contain;outline:none" controls="controls"></video></figure>
+<table id=tbList cellspacing=1 cellpadding=1 width=100% style="margin-top:10px; border-collapse:separate;">
+<thead>
+<tr>
+<td class="btn" onclick="play();" title="播放/暂停">播放</td><td width="10"></td>
+<td class="btn" onclick="playlistPrev();">上个</td><td width="10"></td>
+<td class="btn" onclick="playlistNext();">下个</td><td width="10"></td>
+<td class="btn" onclick="mute();" title="切换静音">静音</td><td width="10"></td>
+<td class="btn" onclick="enterFS();" title="切换全屏">全屏</td>
+</tr>
+</thead>
+<tbody><tr></tr></tbody>
+</table>
+</div>
+<br><br>
+<script>
+	var g_aList = [], g_nIndex = null, g_ButtonsTr = [], g_CurrBtn = null, g_nHLS = 0;
+
+	function setSrc(row,col)
+	{
+		if(g_CurrBtn){
+			g_CurrBtn.style.color = "white";
+		}
+		g_CurrBtn = document.getElementById('btn-'+row+'-'+col);
+		g_CurrBtn.style.color = "orange";
+		
+		var s = g_aList[row]['file'][col];
+		if (s.substr(0, 4).toLowerCase() == 'http')
+		{
+			g_nHLS = s.charAt(0) == 'H' || s.indexOf('.m3u8')!==-1 ? 1 : 0;
+			vp.src = s;
+		} else
+			vp.src = eval(s);
+	}
+	
+	function isPlaying() {return !vp.paused && !vp.ended;}
+	function play() {if (isPlaying()) vp.pause(); else vpPlay();}
+	function mute() {vp.muted = !vp.muted;}
+
+	function enterFS()	{
+		var v = vp.webkitRequestFullscreen || vp.mozRequestFullScreen || vp.msRequestFullscreen;
+		v.call(vp);
+	}
+	
+	function playlistPrev()
+	{
+		if (g_nIndex > 0) {setIndex(g_nIndex-1);setSrc(g_nIndex,0);vpPlay();}
+	}
+	
+	function playlistNext()
+	{
+		var n = g_aList.length-1;
+		if (g_nIndex < n) {setIndex(g_nIndex+1);setSrc(g_nIndex,0);vpPlay();}
+	}
+	
+	function playlistItem(i,j)
+	{
+		setIndex(i);setSrc(i,j);vpPlay();
+	}
+	
+	function setIndex(n)
+	{
+		if(g_nIndex==n) return;
+		
+		if(g_CurrBtn){
+			g_CurrBtn.style.color = "white";
+		}
+		g_CurrBtn = document.getElementById('btn-'+n+'-0');
+		g_CurrBtn.style.color = "orange";
+
+		var t = g_aList[n]['title'];
+		divFile.innerHTML = n < 0 ? "&nbsp;" : (n+1)+': '+t;
+		g_nIndex = n;
+	}
+
+	function init()
+	{
+		fp.style.height = Math.floor(window.innerWidth * (isLand() ? 0.6 : 1) * 9 / 16) + "px";
+
+		var tbody = '', n = g_aList.length;		
+		for (var i=0; i<n; i++)
+		{
+			var item = g_aList[i], t = item['title'], f = item['file'].slice(0,5);
+			tbody += '<tr height=10><td colspan=9 style="border-bottom:2px solid #e2e2ba;"></td></tr>' +
+				'<tr><td colspan=9 class="t">'+(i+1)+'. '+t+'</td></tr><tr class="btns">';
+			for(var j=0; j<f.length; j++){
+				tbody += '<td><div class="btn" id="btn-'+i+'-'+j+'" onclick="playlistItem('+i+','+j+');">'+(j+1)+'</div></td>';
+				if(j<4) tbody += '<td width=10></td>';
+			}
+			tbody += '</tr>';
+		}
+		tbList.tBodies[0].innerHTML = tbody;
+		g_ButtonsTr = document.getElementsByClassName('btns');
+		
+		if (!!(document.createElement('video').canPlayType))
+		{
+			setSrc(0,0);
+			vp.onended=function() {playlistNext();}
+		}
+		
+		setIndex(0);
+		play();
+	}
+	
+ function vpPlay()
+    {
+		if (g_nHLS == 1 && Hls.isSupported())
+		{
+			var hls = new Hls();
+			hls.loadSource(vp.src);
+			hls.attachMedia(vp);
+			hls.on(Hls.Events.MANIFEST_PARSED,function() { vp.play(); });
+			g_nHLS = 2;
+		} else
+			vp.play();
+    }  
+   $("#btn").click(function(){
+	
+	//获取播放位置用于截图
+	alert(video.currentTime);
+  })  
+
+
+	function jsonpCallback(json){
+		if(json.length>0){
+			g_aList = json;
+			init(true);
+		}
+	}
+
+	function loadJson(){
+		//强制跳转到https
+		if (location.protocol=='http:' && location.host.indexOf('.')!==-1) {
+			location.href = location.href.replace('http:','https:');
+			return false;
+		}
+  
+		var script = document.createElement("script");
+		script.type = "text/javascript";
+		script.charset = "utf-8";
+		script.src = "demo.json";
+		document.head.insertBefore(script, document.head.firstChild);
+	}
+</script>
+</body>
+</html>
