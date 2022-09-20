@@ -40,6 +40,7 @@ jsonpCallback([
 注：
 
 （1）添加m3u8的demo.json示例，请破网测试：
+  
 [code]
   jsonpCallback([
     {
@@ -50,11 +51,13 @@ jsonpCallback([
     }
 ]);[/code]
   
+  
 其中播放链接生成方法是先用二维码助手破网获取泛域名如上（*.aoci.site），再破网获取具体的新唐人直播频道如美东频道等，命令参数为：
 *替代为任意字符的泛域名/v.php?id=ntdmd&action=text
 
 （2）添加自定义播放链接的demo.json示例，请破网测试：
 网址结尾不是 “.m3u8”也可能是 m3u8 格式，m3u8 格式的要把 http 改为 Http，也就是自定义。
+  
 jsonpCallback([
     {
         "title": "新唐人中国频道",
