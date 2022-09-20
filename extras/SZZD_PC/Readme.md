@@ -18,7 +18,7 @@ https://j.mp/szmjweb
 
 #### 示例：视频播放器真相内容定制
   
-请用自由门无界破网打开查看二维码助手【3-2】广传平台 的示例。定制步骤如下：
+请用自由门无界破网打开查看二维码小助手【3-2】广传平台 的示例。定制步骤如下：
   
 1、下载一键翻墙客户端（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/szmjweb.zip ）即WEB版（广传平台）定制版，启用对content.json的支持
 用记事本打开index.html，把  < img src="" id="c" rel="">  替换为  < img src="" id="c" rel=";;;content.json"> 
@@ -52,7 +52,7 @@ jsonpCallback([
 ]);[/code]
   
   
-其中播放链接生成方法是先用二维码助手破网获取泛域名如上（*.aoci.site），再破网获取具体的新唐人直播频道如美东频道等，命令参数为：
+其中播放链接生成方法是先用二维码小助手破网获取泛域名如上（*.aoci.site），再破网获取具体的新唐人直播频道如美东频道等，命令参数为：
 *替代为任意字符的泛域名/v.php?id=ntdmd&action=text
 
 （2）添加自定义播放链接的demo.json示例，请破网测试：
