@@ -80,7 +80,7 @@ http://www.szzd.org/v.php?api=getid&url=http://cnhls.ntdtv.com/cn/live400/playli
 http://www.szzd.org/v.php?api=getid&url=http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 得到页面ID YtaWK
   
-增加“ 返回首页： https://github.com/szmj0/Publish ”
+返回首页： https://github.com/szmj0/Publish
 
 
 
