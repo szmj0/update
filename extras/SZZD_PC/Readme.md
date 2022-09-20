@@ -35,7 +35,7 @@ jsonpCallback([
     }
 ]);
 
-3、demo.json的内容可以是相对于Player.html所在目录的本地媒体文件，也可以是网络媒体文件，支持m3u8 流媒体、mp4等，在电脑和手机的 Chrome 测了可以在 Player 里播放。
+3、demo.json的内容可以是相对于player.html所在目录的本地媒体文件，也可以是网络媒体文件，支持m3u8 流媒体、mp4等，在电脑和手机的 Chrome 测了可以在 player 里播放。
  
 注：
 
