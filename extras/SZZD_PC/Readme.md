@@ -65,6 +65,7 @@ jsonpCallback([
 ]);
 
 如果知道海外正义媒体网络发布公开的播放链接，可以用此播放器隐藏真实的播放址及后缀特征来实现自定义真相播放。比如上面获取新唐人中国频道直播神州明见代理资源目录的命令参数示例（请破网查看）：
+  
 http://www.szzd.org/v.php?api=getid&url=http://cnhls.ntdtv.com/cn/live150/playlist.m3u8
 得到页面ID Gh5fG
   
