@@ -3,6 +3,6 @@
     "version": "6.3.2022121501",
     "pageID": "cTDaH",
     "size": "6698763",
-    "sha512": "7bea9db63b01eada91e35763c1fb0707956b732c7e29f1bd7887819d766e80d270a9c685cf89cc6f8fcff4d9a5bffe8e4678f1f429d8cb7fce6ee9e6f0283a67",
-    "updateinfo": "<br><br>更新内容(2022-12-15)：<br>1、提高翻墙能力，2、修正完善程序。"
+    "sha512": "2ebaf4195f9fc350e818fa6f23329f5dcec8d90927e059e1bd3201ee2f3698c2c80b5705f683fd61298777c52dcb1967b74e7af3f61e460c0c09c47371ec419f",
+    "updateinfo": "<br><br>更新内容(2023-01-20)：<br>1、改变了节点分配规则，和节点源的获取原则。"
 }
