@@ -2,7 +2,7 @@
   "appname": "szmj.apk",
     "version": "6.3.2022121501",
     "pageID": "cTDaH",
-    "size": "6698763",
+    "size": "7236955",
     "sha512": "2ebaf4195f9fc350e818fa6f23329f5dcec8d90927e059e1bd3201ee2f3698c2c80b5705f683fd61298777c52dcb1967b74e7af3f61e460c0c09c47371ec419f",
     "updateinfo": "<br><br>更新内容(2023-01-20)：<br>1、改变了节点分配规则，和节点源的获取原则。"
 }
