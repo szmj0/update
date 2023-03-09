@@ -1,8 +1,8 @@
 {
     "appname": "szmjtv.apk",
-    "version": "4.4.2022121501",
+    "version": "6.4.2023022001",
     "pageID":  "Dr8tb",
-    "size": "6153298",
+    "size": "6157902",
     "sha512": "ede6898e5d5624c859f10c8bebd3f5d18b2ce354a751bc3de45be8e701089227e4f0fd6df1cbcf178b5a27c8de98c78bce2f8ab6976058d87cd4b0dba2a38c4d",
-    "updateinfo": "<br><br>更新内容(2023-01-21)：<br>1、改变了节点分配规则，和节点源的获取原则。"
+    "updateinfo": "<br><br>更新内容(2023-01-21)：<br>1、干净世界支持与网址更新。"
 }
