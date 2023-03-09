@@ -1,8 +1,8 @@
 {
   "appname": "szmj.apk",
-    "version": "6.3.2022121501",
+    "version": "6.4.2023022001",
     "pageID": "cTDaH",
-    "size": "7236955",
-    "sha512": "2ebaf4195f9fc350e818fa6f23329f5dcec8d90927e059e1bd3201ee2f3698c2c80b5705f683fd61298777c52dcb1967b74e7af3f61e460c0c09c47371ec419f",
-    "updateinfo": "<br><br>更新内容(2023-01-20)：<br>1、改变了节点分配规则，和节点源的获取原则。"
+    "size": "7240832 ",
+    "sha512": "8f9da6c7c3994ecd04b55af35313ab198b5cf855295d82eaa6bcb57b02e7d8b9152210dc8b09c98b9f74b04ae1583792c3c4bd3dd36683d981be927173276cb1",
+    "updateinfo": "<br><br>更新内容(2023-03-09)：<br>1、干净世界支持与网址更新。"
 }
