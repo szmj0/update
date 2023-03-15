@@ -1,8 +1,8 @@
 {
   "appname": "szmj.apk",
-    "version": "6.4.2023022001",
-    "pageID": "cTDaH",
-    "size": "7240832 ",
-    "sha512": "8f9da6c7c3994ecd04b55af35313ab198b5cf855295d82eaa6bcb57b02e7d8b9152210dc8b09c98b9f74b04ae1583792c3c4bd3dd36683d981be927173276cb1",
-    "updateinfo": "<br><br>更新内容(2023-03-09)：<br>1、干净世界支持与网址更新。"
+    "version": "6.5.2023031101",
+    "pageID": "dKLpC",
+    "size": "7241728",
+    "sha512": "d236a0c8ccfd86573a97de934151cd4a80ec615f09d74a714ef74bfb50b61d207497ee9a33c2287e1963c1ee4fb2b724ddb02c20b7a9182fdf01eb3485877f5e",
+    "updateinfo": "<br><br>更新内容(2023-03-15)：<br>1、Bug 修正。"
 }
