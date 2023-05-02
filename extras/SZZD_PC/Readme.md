@@ -23,7 +23,7 @@ https://j.mp/szmjweb
 1、下载一键翻墙客户端（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/szmjweb.2.0.zip ）即WEB版（广传平台）定制版，启用对content.json的支持
 用记事本打开index.html，把  < img src="" id="c" rel="">  替换为  < img src="" id="c" rel=";;;content.json"> 
 
-2、需要把多线路播放数据支持的player.html（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/player.html ）、demo.json（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/demo.json ）及相关媒体文件放入content.json所指定的目录才行，Player.html也可以独立下载使用。content.json内容修改为包含Player.html的位置，如：
+2、需要把多线路播放数据支持的player.html解压（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/Player2.0.7z ）、demo.json（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/demo.json ）及相关媒体文件放入content.json所指定的目录才行，Player.html也可以独立下载使用。content.json内容修改为包含Player.html的位置，如：
 jsonpCallback([
     {
         "title": "样例",
