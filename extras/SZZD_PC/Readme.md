@@ -46,7 +46,7 @@ jsonpCallback([
     {
         "title": "新唐人美东频道",
         "file": [
-            "http://sfdcgf3.aoci.site/static/wRK5F/WAVVCBpRUBo/QVSo1/DewAWS9kAe/5lBQs/gHHEQQN8VCBzKCpvz.m3u8"
+            "http://www.szzd.org/static/0xAcdFDf02fbU/SLcUB/ANohBXhBUZ/xAUbR/wTRBgUDZlUBvUOIKj.m3u8"
         ]
     }
 ]);[/code]
