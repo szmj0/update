@@ -73,10 +73,11 @@ http://www.szzd.org/v.php?api=getid&url=http://cnhls.ntdtv.com/cn/live800/playli
 
 4、独立使用Player.html定制内置域名网址的方法 
   请用自由门无界代理下载或查看效果： https://szmj0.github.io/book_html/Player.html 
-  定制方法： 内置的域名有可能过期失效，可以在git官网上（  https://github.com/szmj0 ）下载598 KB的 SZZD_PC/Player2.0.7z 
+  定制方法： 内置的域名有可能过期失效，可以在git官网上（  https://github.com/szmj0 ）下载598 KB的 SZZD_PC/Player2.0.7z
+  
 sha512：
-[code]79F57A8301D08EE0A3E4FB1A772C9C53D9573A4834EA66511D5DED173510B5EE18D0CD044F15A200F452E9D247E4EDECCC31D7B5FC7F985CF690CA94334645B9  Player2.0.7z
-[/code]
+F00197F73A5BB697F5D66B0DA0D0725518A2E888A00887E95FF0984D33212DFD89B795FEDCD272B26B39A53D5BBA7C279F7279829180E43C715680C1343E72959 Player2.0.7z
+  
 下载解压后可用二维码助手本地辅助获取更新域名用记事本编辑替换再单独发给世人使用。
 Player.html通过隐藏的框架代码加载墙外git官网上的播放列表，页面ID为 M7W9f ，加载时间可能需要10秒左右（根据网络状况和机台情况而定，加载成功会在页面上显示后台维护的播放列表，如果不成功可以刷新或者换一个时间打开。Player.html中：
 [code]<iframe id="ifr1" name="ifr1" src=" ">
@@ -90,7 +91,7 @@ src="&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;&#104;&#100;&#103;&#57;&#54;&#
 也可以直接推这个网页播放器的资源目录（页面ID） 13769 ，生成页面ID网址是：
 https://raw.githubusercontent.com/szmj0/szmj0.github.io/main/book_html/Player.html?htm
 注：?htm 是必须的，意思是代理后还原网页的效果。
-即：可通过二维码助手用 13769 生成的域名网址或者短网址，如果需要查询点量的可基于上述网址生成自定义页面ID，群发用途推荐用【1-3】。  
+即：可通过二维码助手用 13769 生成的域名网址或者短网址，如果需要查询点击量的可基于上述网址生成自定义页面ID，群发用途推荐用【1-3】。   
   
 返回首页： https://github.com/szmj0/Publish
 
