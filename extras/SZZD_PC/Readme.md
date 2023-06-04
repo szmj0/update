@@ -58,16 +58,7 @@ jsonpCallback([
 （2）添加自定义播放链接的demo.json示例，请破网测试：
 网址结尾不是 “.m3u8”也可能是 m3u8 格式，m3u8 格式的要把 http 改为 Http，也就是自定义。
   
-jsonpCallback([
-    {
-        "title": "新唐人中国频道",
-        "file": [
-            "Http://sfdcgf3.aoci.site/Gh5fG",
-            "Http://sfdcgf3.aoci.site/PxKWd",
-                "Http://sfdcgf3.aoci.site/YtaWK"
-              ]
-    }
-]);
+jsonpCallback([     {         "title": "新唐人中国频道",         "file": [             "Http://sfdcgf3.chna.ml/Gh5fG",             "Http://sfdcgf3.chna.ml/PxKWd",                 "Http://sfdcgf3.chna.ml/YtaWK"               ]     } ]);
 
 如果知道海外正义媒体网络发布公开的播放链接，可以用此播放器隐藏真实的播放址及后缀特征来实现自定义真相播放。比如上面获取新唐人中国频道直播神州明见代理资源目录的命令参数示例（请破网查看）：
   
@@ -80,11 +71,9 @@ http://www.szzd.org/v.php?api=getid&url=http://cnhls.ntdtv.com/cn/live400/playli
 http://www.szzd.org/v.php?api=getid&url=http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 得到页面ID YtaWK
 
-4、独立使用Player.html定制内置域名网址的方法
-请用自由门无界代理下载或查看效果：
-https://szmj0.github.io/book_html/Player.html
-定制方法：
-内置的域名有可能过期失效，可以在git官网上（  https://github.com/szmj0 ）下载80.3 KB的 SZZD_PC/Player2.0.7z
+4、独立使用Player.html定制内置域名网址的方法 
+  请用自由门无界代理下载或查看效果： https://szmj0.github.io/book_html/Player.html 
+  定制方法： 内置的域名有可能过期失效，可以在git官网上（  https://github.com/szmj0 ）下载598 KB的 SZZD_PC/Player2.0.7z 
 sha512：
 [code]79F57A8301D08EE0A3E4FB1A772C9C53D9573A4834EA66511D5DED173510B5EE18D0CD044F15A200F452E9D247E4EDECCC31D7B5FC7F985CF690CA94334645B9  Player2.0.7z
 [/code]
