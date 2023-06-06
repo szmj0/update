@@ -36,6 +36,227 @@ jsonpCallback([
 "book_html/Player.html"}        ]
     }
 ]);
+  如content.json包含明慧html电子书和播放内容等自定义两栏的一个示例：
+https://github.com/szmj0/szmj0.github.io/blob/main/content.json
+
+如果不想要content.json文件想单独传递包括自定义内容的index.html一个文件也是可以的，只是没有sw.js辅助显示安装到桌面或安装APP的提示。方法是：
+在记事本中打开index.html查找到<div id="custom"></div>预留定制代码段，custom是定制的意思。在其中插入自定义内置json内容但不包括识别content.json特有的首尾本地跨域读取标记即：
+jsonpCallback();
+
+插入上面content.json示例只包含自定义内置json内容（含网页播放器）的完整代码段：
+<div id="custom">
+{
+    "b_data": [{
+        "title": 
+
+"Html电子书",
+        "css": 
+
+"background:linear-
+
+gradient(#b3b8cc,#6179c0); 
+
+color:#FFF;",
+            
+        "list": [
+        {  "title": "
+
+九评共产党", "url": 
+
+"https://fohao.github.io/b
+
+ook_html/9ping.html" },
+            {
+                "title": "
+
+风雨天地行",
+                "url": 
+
+"https://fohao.github.io/b
+
+ook_html/fytdx.html"       
+
+       
+            },
+            {
+                "title": "
+
+你我有缘画册",
+                "url": 
+
+"https://fohao.github.io/b
+
+ook_html/huace.html"       
+
+       
+            },
+            {
+                "title": "
+
+解体党文化",
+                "url": 
+
+"https://fohao.github.io/b
+
+ook_html/jtdwh.html"       
+
+       
+            },
+            {
+                "title": "
+
+江泽民其人",
+                "url": 
+
+"https://fohao.github.io/b
+
+ook_html/jzmqr.html"       
+
+       
+            },
+            {
+                "title": "
+
+“死刑犯”撑不起中国器官移
+
+植市场上的蘑菇云",
+                "url": 
+
+"https://fohao.github.io/b
+
+ook_html/murder.html"      
+
+        
+            },
+            {
+                "title": "
+
+世纪伪案 惊天骗局",
+                "url": 
+
+"https://fohao.github.io/b
+
+ook_html/pj.html"          
+
+    
+            },
+            {
+                "title": "
+
+退党手册",
+                "url": 
+
+"https://fohao.github.io/b
+
+ook_html/tdsc.html"        
+
+      
+            },
+            {
+                "title": "
+
+共产主义的终极目的",
+                "url": 
+
+"https://fohao.github.io/b
+
+ook_html/zjmd.html"        
+
+      
+            }        
+            ]
+                },
+                {
+                    
+
+"title": "定制影音",
+                    "css": 
+
+"background:linear-
+
+gradient(#b3b8cc,#6179c0); 
+
+color:#FFF;",
+                    "url": 
+
+"/13769",
+                    
+
+"list": [
+                        
+
+{"title":"为什么会有人类（
+
+webm格式）", "vid": 
+
+"media-0"},
+                        
+
+{"title":"新唐人亚太台", 
+
+"vid": "media-1"},
+                        
+
+{"title":"新唐人美东台", 
+
+"vid": "media-2"}
+                    ]
+                }
+            ],
+    "media": [
+                {
+                    
+
+"title": "为什么会有人类",
+                    
+
+"type": "webm",
+                    
+
+"file": 
+
+"https://gitlab.com/tui590
+
+285/vdjiangfa/-/raw/master
+
+/public/jiangfa.webm"
+                },
+                {
+                    
+
+"title": "新唐人亚太台",
+                    
+
+"type": "m3u8",
+                    
+
+"list": 
+
+["/9T1GF.m3u8","/d2ZFx.m3u
+
+8"]
+                },
+                {
+                    
+
+"title": "新唐人美东台",
+                    
+
+"type": "m3u8",
+                    
+
+"list": 
+
+["/o4dPg.m3u8","/ZZ7iJ.m3u
+
+8"]
+                }
+            ]
+}
+</div>
+示例中的github上的明慧html电子书，需要通过二维码助手github_htm接口获取到上传过电子书的github域名替换：
+http://www.szzd.org/v.php?api=geturl.github_htm&action=text
+这样添加后只适合本机破网测试效果使用，如果需要发送给世人的，测试好后需要通过二维码助手base64两次加密所添加的代码段。
 
 3、demo.json的内容可以是相对于player.html所在目录的本地媒体文件，也可以是网络媒体文件，支持m3u8 流媒体、mp4等，在电脑和手机的 Chrome 测了可以在 player 里播放。
  
