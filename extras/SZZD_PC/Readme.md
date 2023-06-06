@@ -46,212 +46,74 @@ jsonpCallback();
 插入上面content.json示例只包含自定义内置json内容（含网页播放器）的完整代码段：
 <div id="custom">
 {
-    "b_data": [{
-        "title": 
-
-"Html电子书",
-        "css": 
-
-"background:linear-
-
-gradient(#b3b8cc,#6179c0); 
-
-color:#FFF;",
-            
-        "list": [
-        {  "title": "
-
-九评共产党", "url": 
-
-"https://fohao.github.io/b
-
-ook_html/9ping.html" },
-            {
-                "title": "
-
-风雨天地行",
-                "url": 
-
-"https://fohao.github.io/b
-
-ook_html/fytdx.html"       
-
-       
-            },
-            {
-                "title": "
-
-你我有缘画册",
-                "url": 
-
-"https://fohao.github.io/b
-
-ook_html/huace.html"       
-
-       
-            },
-            {
-                "title": "
-
-解体党文化",
-                "url": 
-
-"https://fohao.github.io/b
-
-ook_html/jtdwh.html"       
-
-       
-            },
-            {
-                "title": "
-
-江泽民其人",
-                "url": 
-
-"https://fohao.github.io/b
-
-ook_html/jzmqr.html"       
-
-       
-            },
-            {
-                "title": "
-
-“死刑犯”撑不起中国器官移
-
-植市场上的蘑菇云",
-                "url": 
-
-"https://fohao.github.io/b
-
-ook_html/murder.html"      
-
-        
-            },
-            {
-                "title": "
-
-世纪伪案 惊天骗局",
-                "url": 
-
-"https://fohao.github.io/b
-
-ook_html/pj.html"          
-
-    
-            },
-            {
-                "title": "
-
-退党手册",
-                "url": 
-
-"https://fohao.github.io/b
-
-ook_html/tdsc.html"        
-
-      
-            },
-            {
-                "title": "
-
-共产主义的终极目的",
-                "url": 
-
-"https://fohao.github.io/b
-
-ook_html/zjmd.html"        
-
-      
-            }        
-            ]
-                },
-                {
-                    
-
-"title": "定制影音",
-                    "css": 
-
-"background:linear-
-
-gradient(#b3b8cc,#6179c0); 
-
-color:#FFF;",
-                    "url": 
-
-"/13769",
-                    
-
-"list": [
-                        
-
-{"title":"为什么会有人类（
-
-webm格式）", "vid": 
-
-"media-0"},
-                        
-
-{"title":"新唐人亚太台", 
-
-"vid": "media-1"},
-                        
-
-{"title":"新唐人美东台", 
-
-"vid": "media-2"}
-                    ]
-                }
-            ],
-    "media": [
-                {
-                    
-
-"title": "为什么会有人类",
-                    
-
-"type": "webm",
-                    
-
-"file": 
-
-"https://gitlab.com/tui590
-
-285/vdjiangfa/-/raw/master
-
-/public/jiangfa.webm"
-                },
-                {
-                    
-
-"title": "新唐人亚太台",
-                    
-
-"type": "m3u8",
-                    
-
-"list": 
-
-["/9T1GF.m3u8","/d2ZFx.m3u
-
-8"]
-                },
-                {
-                    
-
-"title": "新唐人美东台",
-                    
-
-"type": "m3u8",
-                    
-
-"list": 
-
-["/o4dPg.m3u8","/ZZ7iJ.m3u
-
-8"]
-                }
-            ]
+    "b_data": [{
+        "title": "Html电子书",
+        "css": "background:linear-gradient(#b3b8cc,#6179c0); color:#FFF;",
+            
+        "list": [
+        {  "title": "九评共产党", "url": "https://fohao.github.io/book_html/9ping.html" },
+            {
+                "title": "风雨天地行",
+                "url": "https://fohao.github.io/book_html/fytdx.html"              
+            },
+            {
+                "title": "你我有缘画册",
+                "url": "https://fohao.github.io/book_html/huace.html"              
+            },
+            {
+                "title": "解体党文化",
+                "url": "https://fohao.github.io/book_html/jtdwh.html"              
+            },
+            {
+                "title": "江泽民其人",
+                "url": "https://fohao.github.io/book_html/jzmqr.html"              
+            },
+            {
+                "title": "“死刑犯”撑不起中国器官移植市场上的蘑菇云",
+                "url": "https://fohao.github.io/book_html/murder.html"              
+            },
+            {
+                "title": "世纪伪案 惊天骗局",
+                "url": "https://fohao.github.io/book_html/pj.html"              
+            },
+            {
+                "title": "退党手册",
+                "url": "https://fohao.github.io/book_html/tdsc.html"              
+            },
+            {
+                "title": "共产主义的终极目的",
+                "url": "https://fohao.github.io/book_html/zjmd.html"              
+            }        
+            ]
+                },
+                {
+                    "title": "定制影音",
+                    "css": "background:linear-gradient(#b3b8cc,#6179c0); color:#FFF;",
+                    "url": "/13769",
+                    "list": [
+                        {"title":"为什么会有人类（webm格式）", "vid": "media-0"},
+                        {"title":"新唐人亚太台", "vid": "media-1"},
+                        {"title":"新唐人美东台", "vid": "media-2"}
+                    ]
+                }
+            ],
+    "media": [
+                {
+                    "title": "为什么会有人类",
+                    "type": "webm",
+                    "file": "https://gitlab.com/tui590285/vdjiangfa/-/raw/master/public/jiangfa.webm"
+                },
+                {
+                    "title": "新唐人亚太台",
+                    "type": "m3u8",
+                    "list": ["/9T1GF.m3u8","/d2ZFx.m3u8"]
+                },
+                {
+                    "title": "新唐人美东台",
+                    "type": "m3u8",
+                    "list": ["/o4dPg.m3u8","/ZZ7iJ.m3u8"]
+                }
+            ]
 }
 </div>
 示例中的github上的明慧html电子书，需要通过二维码助手github_htm接口获取到上传过电子书的github域名替换：
