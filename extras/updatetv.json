@@ -1,8 +1,8 @@
 {
     "appname": "szmjtv.apk",
-    "version": "6.5.2023031101",
+    "version": "6.7.2023060101",
     "pageID":  "Dr8tb",
-    "size": "6140417",
-    "sha512": "5a7f28f5744a7b1d7ef8618625c2f5ddb4f7f09054dcc052e39aab95466327fb15a126b52455db429a28f33630540b0de50281439e02ee49e2717ce4ec5fe57e",
-    "updateinfo": "<br><br>更新内容(2023-03-09)：<br>1、Bug 修正。"
+    "size": "7242163",
+    "sha512": "be72ae32f94fdb9f5bea4dcf14dcf7abf3258745cdbcfc77297763e5df26f8e15b0a86683bea37ff1725dce2586c422c96e401715a9d572b28438655f74acff5",
+    "updateinfo": "<br><br>更新内容(2023-08-12)：<br>1、本地节点只有http没有https的时候，直接获取bp节点。"
 }
