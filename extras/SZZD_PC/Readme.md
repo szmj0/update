@@ -20,21 +20,21 @@ https://j.mp/szmjweb
   
 请用自由门无界破网打开查看二维码小助手【3-2】广传平台 的示例。定制步骤如下：
   
-1、下载一键翻墙客户端（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/szmjweb.2.0.zip ）即WEB版（广传平台）定制版，
-  sha512: 2F33BC3D01BB320919D7689169ED270DB6D2BBF8BD4E05C5888B4E3315B854A915F21196082915E98E70D000924A022437579E2911DD3AAC07536C3D584B6F01  szmjweb.2.0.zip
+1、下载一键翻墙客户端（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/szmjweb.3.0.zip ）即WEB版（广传平台）定制版，
+  sha512: 3FE01FB0133568F08B5AA1C41056625C714E1E71773ABF1176934E23F5FE320358212C1844914E4FCD1172911AE9C46803296FE6A802DF5C2AA5A754E6DA81BE  szmjweb.3.0.zip
   ，启用对content.json的支持
 用记事本打开index.html，把  < img src="" id="c" rel="">  替换为  < img src="" id="c" rel=";;;content.json"> 
 
-2、需要把多线路播放数据支持的player.html解压（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/Player2.0.7z ）、demo.json（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/demo.json ）及相关媒体文件放入content.json所指定的目录才行，Player.html也可以独立下载使用。content.json内容修改为包含Player.html的位置，如：
+2、需要把多线路播放数据支持的player.html解压（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/Player3.0_0814.rar ）、demo.json（ https://github.com/szmj0/update/blob/main/extras/SZZD_PC/demo.json ）及相关媒体文件放入content.json所指定的目录才行，Player.html也可以独立下载使用。content.json内容修改为包含Player.html的位置，如：
 jsonpCallback([
-    {
-        "title": "样例",
-        "css": "background:linear-gradient
+    {
+        "title": "样例",
+        "css": "background:linear-gradient
 (#566AC9,#0A38C2); color:#FFF;",
-        "list": [
-            {"title": "Player", "url": 
-"book_html/Player.html"}        ]
-    }
+        "list": [
+            {"title": "Player", "url": 
+"book_html/Player.html"}        ]
+    }
 ]);
   如content.json包含明慧html电子书和播放内容等自定义两栏的一个示例：
 https://github.com/szmj0/szmj0.github.io/blob/main/content.json
@@ -156,29 +156,24 @@ http://www.szzd.org/v.php?api=getid&url=http://cnhls.ntdtv.com/cn/live400/playli
 http://www.szzd.org/v.php?api=getid&url=http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
 得到页面ID YtaWK
 
-4、独立使用Player.html定制内置域名网址的方法 
+4、独立使用Player.html的方法 
   请用自由门无界代理下载或查看效果： https://szmj0.github.io/book_html/Player.html 
-  定制方法： 内置的域名有可能过期失效，可以在git官网上（  https://github.com/szmj0 ）下载598 KB的 SZZD_PC/Player2.0.7z
+  使用方法：
+基于WEB定制第三版制作，可以在git官网上下载598 KB的Player3.0_0814.rar，解压后Player.html约1.2MB。
   
 sha512：
-F00197F73A5BB697F5D66B0DA0D0725518A2E888A00887E95FF0984D33212DFD89B795FEDCD272B26B39A53D5BBA7C279F7279829180E43C715680C1343E72959 Player2.0.7z
+E7F0BB2CD45FD39043CBCE1858C4F82A65A576AE39CCB8DBDA50F12B8746CA099BFCA47A4BADC3AAE6D0A65704EF54AD6ABAA47194CAC4FC86E68748262CB971  Player3.0_0814.rar
   
-下载解压后可用二维码助手本地辅助获取更新域名用记事本编辑替换再单独发给世人使用。
-Player.html通过隐藏的框架代码加载墙外git官网上的播放列表，页面ID为 M7W9f ，加载时间可能需要10秒左右（根据网络状况和机台情况而定，加载成功会在页面上显示后台维护的播放列表，如果不成功可以刷新或者换一个时间打开。Player.html中：
-[code]<iframe id="ifr1" name="ifr1" src=" ">
-  <p>Your browser does not support iframes.</p>
-</iframe>[/code]
-src=" "引号内可修改为：通过二维码助手用播放列表页面ID M7W9f生成的域名网址或者短网址，群发用途推荐【1-3】可以间接查询真相内容或真相网址出墙点击量，可根据需要灵活定制。如：
-src="管理员警告：禁止外部链接hdg96.chna.ml/M7W9f"
-注：示例是明见组海外制作提供的域名，二维码助手中可通过【1-3】获取到手工加入。建议采用下面的实体字符编码形式，网络传递尽量不用明文网址。如果不确定域名是否有正式证书，请采用http链接。 
-src="&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;&#104;&#100;&#103;&#57;&#54;&#46;&#99;&#104;&#110;&#97;&#46;&#109;&#108;&#47;&#77;&#55;&#87;&#57;&#102;"
-
+下载解压后可单独发给世人使用。
+Player.html通过隐藏的WEB定制第三版代码加载墙外git官网上的播放列表，可能需要3－5秒左右（根据网络状况和机台情况而定），加载成功会在页面上显示后台维护的播放列表，如果不成功可以刷新或者换一个时间打开。iframe 现在没用了，加快了加载时间，对比之前采用iframe 可能节约一半以上的加载时间，更加稳定可靠。不需要手工写入翻墙域名，方便易用。
 也可以直接推这个网页播放器的资源目录（页面ID） 13769 ，生成页面ID网址是：
 https://raw.githubusercontent.com/szmj0/szmj0.github.io/main/book_html/Player.html?htm
 注：?htm 是必须的，意思是代理后还原网页的效果。
-即：可通过二维码助手用 13769 生成的域名网址或者短网址，如果需要查询点击量的可基于上述网址生成自定义页面ID，群发用途推荐用【1-3】。   
+即：可通过二维码助手用 13769 生成的域名网址或者短网址，如果需要查询点击量的可基于上述网址生成自定义页面ID，群发用途推荐用【1-3】。
+
+如果有综合真相网页的需求，请参考基于WEB定制第三版的“畅游真相”定制方法：
+ https://tiandixing.org/viewtopic.php?p=2130618#p2130618 神州明见官网发布“畅游真相”
   
 返回首页： https://github.com/szmj0/Publish
-
 
 
