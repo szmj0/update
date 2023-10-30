@@ -1,8 +1,8 @@
 {
   "appname": "szmj.apk",
-    "version": "6.7.2023060101",
+    "version": "6.8.2023091301",
     "pageID": "cTDaH",
-    "size": "7242163",
-    "sha512": "be72ae32f94fdb9f5bea4dcf14dcf7abf3258745cdbcfc77297763e5df26f8e15b0a86683bea37ff1725dce2586c422c96e401715a9d572b28438655f74acff5",
-    "updateinfo": "<br><br>更新内容(2023-03-15)：<br>1、本地节点只有http没有https的时候，直接获取bp节点。"
+    "size": "7246160",
+    "sha512": "3b42bd72b084f708af682d9ae7409c8d4fa5e7367d0f22dee32ec92157f09ebf1c45a1b0df55a9062981e8c086a26d1dd2a760ac7b986b002ba4f95936673e9d",
+    "updateinfo": "<br><br>更新内容(2023-10-30)：<br>1、简化更新程序的方法。"
 }
