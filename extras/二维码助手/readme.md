@@ -120,3 +120,12 @@
 >sha512:  `db286ac2d0a3651ecffcecc33211067f9e29b13f911e98fff4edec5192e1e2c87d3e63738ef820c2def38dfb2bb891bedb005ee3abb3e22e8eff4af7c9757700`
 #### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq93gd.zip'>cfq93gd.zip</a>
 >sha512:  `ea19a3092668a148b89015cefbe8b24dd40a002e0bebdca74fd8a2cc371bdb1fddcf82128ddd2381137f6d645a78933d086f1f0a6e2eaf82589f3a75ef75e8bd`
+
+## 21 11月 2023 上传：
+二十、翻墙卡（浪花土地共 16 款，pdf 模板）
+
+#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq89lhtd.zip
+sha512:
+
+#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq93lhtd.zip
+sha512:
