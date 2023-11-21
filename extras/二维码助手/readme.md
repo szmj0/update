@@ -124,8 +124,8 @@
 ## 21 11月 2023 上传：
 二十、翻墙卡（浪花土地共 16 款，pdf 模板）
 
-#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq89lhtd.zip
+#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq89lhtd.zip'>cfq89lhtd.zip</a>
 sha512:
 
-#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq93lhtd.zip
+#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq93lhtd.zip'>cfq93lhtd.zip</a>
 sha512:
