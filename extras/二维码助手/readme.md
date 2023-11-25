@@ -11,14 +11,16 @@
 >sha512:  `b9435826b146f48a492f86c8d7119ce60574256081f684531cb3b984514186de67a83dc6a7f3236e994735999b5695bb275cb69545ee0628b1a94b6904ce690d`
 #### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys93fyzs.rar'>cys93fyzs.rar</a>
 >sha512:  `bfdb3eb43241da2becf21ee8985aa150919eb1c874e0ea85827461734f0021257b0fa64ae32b4fc7a4a1440436f6e02f9cef07ea9602100d9b815878f0928bc0`
-#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89xnh.rar'>czx89xnh.rar</a>
-#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx93xnh.rar'>czx93xnh.rar</a>
 
 三、節日翻墙卡 (2023-1-4上传)
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89xnh.zip'>czx89xnh.zip</a>
 >sha512:  `2071f65fd565660fb218c7ddce00fcb3078113454d392f4209f520117f2bd492f6ffb686b46e6d7ee03d2fd42ed4b4f114118eb4dfe8ca992d7a09d2a53a4a60`
 #### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx93xnh.zip'>czx93xnh.zip</a>
 >sha512:  `f69d7e54b238ae7faea9acb643c1786d0fd664f187a73893716c5a9c8039960b115fe01313d49d7e3a05ccc8b2e1fd150468d7d43359212ce649e59ece02abc0`
+#### 3（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89xnh.rar'>czx89xnh.rar</a>
+>sha512:  `B1094E06674F6754FB5B6267F338244F8B0782E1DDEBA332DCEBE674DEC2BC732BE3CC5779FB954AD76D168D6DA524217A444E50CF14D6618D0EDD2187969CF8`
+#### 4 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx93xnh.rar'>czx93xnh.rar</a>
+>sha512:  `155BF3C9A69A0229140695E0F200F7F898248C44B90CEB4E6BCA55D3E4D0C099C8C93B03E68B8E4EBCDFF334AAFB05190778473A8EF2EE919E1334A6308FCF50`
 
 四、预言
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cyy89.rar'>cyy89.rar</a>
