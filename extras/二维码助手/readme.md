@@ -136,8 +136,8 @@
 
 ## 2023-11-23 上传：
 二十一、翻墙卡（新年卡 pdf 模板文件）
-#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89xnhl.zip'>czx89xnhl.zip</a>
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89xnhl.zip'>czx89xnhl.zip</a>
 >sha512: `C7628C587F9D5DD4E228DB185BCC4C953EC4248C53AC041A454EED6B2D487835485B92B0454B5B0DDDCB55266D9D53AC8CC0977FB81E2520210229806AD604E2`
 
-#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx93xnhl.zip'>czx93xnhl.zip</a>
+#### 2 （5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx93xnhl.zip'>czx93xnhl.zip</a>
 >sha512: `F240ED1F109D8B26B3EF855E7165B5F4DEE1D6171FD548551A76774AD83C1A5EEE5D67F0200982CDBD03201F3EE7BE36A5454D7BBDCA2B39143DC913E4AAE4E0`
