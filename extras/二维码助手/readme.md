@@ -11,6 +11,8 @@
 >sha512:  `b9435826b146f48a492f86c8d7119ce60574256081f684531cb3b984514186de67a83dc6a7f3236e994735999b5695bb275cb69545ee0628b1a94b6904ce690d`
 #### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys93fyzs.rar'>cys93fyzs.rar</a>
 >sha512:  `bfdb3eb43241da2becf21ee8985aa150919eb1c874e0ea85827461734f0021257b0fa64ae32b4fc7a4a1440436f6e02f9cef07ea9602100d9b815878f0928bc0`
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89xnh.rar'>czx89xnh.rar</a>
+#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx93xnh.rar'>czx93xnh.rar</a>
 
 三、節日翻墙卡 (2023-1-4上传)
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89xnh.zip'>czx89xnh.zip</a>
@@ -131,7 +133,7 @@
 >sha512: `677D2A7EB53C14E43C97ED4A68E46BDB64115A1632B4BF2029F8370F03B0B7F537B14481B74A166FB392BA22CC98924FECBFB45304404374D43F025BF42B94E1`
 
 ## 2023-11-23 上传：
-二十一、節日翻墙卡（新年卡 pdf 模板文件）
+二十一、翻墙卡（新年卡 pdf 模板文件）
 #### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89xnhl.zip'>czx89xnhl.zip</a>
 >sha512: `C7628C587F9D5DD4E228DB185BCC4C953EC4248C53AC041A454EED6B2D487835485B92B0454B5B0DDDCB55266D9D53AC8CC0977FB81E2520210229806AD604E2`
 
