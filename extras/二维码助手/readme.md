@@ -141,6 +141,7 @@
 
 #### 2 （5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx93xnhl.zip'>czx93xnhl.zip</a>
 >sha512: `F240ED1F109D8B26B3EF855E7165B5F4DEE1D6171FD548551A76774AD83C1A5EEE5D67F0200982CDBD03201F3EE7BE36A5454D7BBDCA2B39143DC913E4AAE4E0`
+
 （需要解压到二维码助手的【二维码模板pdf】文件夹里）
 图片、文案均来自于明慧网的最新版的年画（正面图片和文案出自《福兆龙年》、《新年接福》，背面飞天出自《吉祥新年》）：
 http://qikan.minghui.org/qikan.aspx?id=210653
