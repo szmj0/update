@@ -147,3 +147,9 @@
 http://qikan.minghui.org/qikan.aspx?id=210653
 篆刻印章是音像版的素材：
 【图片素材】大法弟子创作的书法篆刻作品（png已抠图）
+
+二十二、三退卡和真相卡更新（pdf 模板文件，更新三退人数到超 4 亿 ）
+#### 1、（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/stc4y89.zip'>stc4y89.zip</a>
+
+#### 2、（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/stc4y93.zip'>stc4y93.zip</a>
+
