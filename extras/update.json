@@ -1,8 +1,8 @@
 {
   "appname": "szmj.apk",
-    "version": "6.8.2023091301",
+    "version": "6.9.2024010901",
     "pageID": "cTDaH",
-    "size": "7246160",
-    "sha512": "3b42bd72b084f708af682d9ae7409c8d4fa5e7367d0f22dee32ec92157f09ebf1c45a1b0df55a9062981e8c086a26d1dd2a760ac7b986b002ba4f95936673e9d",
-    "updateinfo": "<br><br>更新内容(2023-10-30)：<br>1、简化更新程序的方法。"
+    "size": "7248962",
+    "sha512": "c183793a0fca7bc4fce9da131d61e6ea2e1520f5fba22f138a400ec651f6bca9a2b96df0d8a5ec29019daf6b9166e7145a332d8c81392d5e0f5754559179f4c",
+    "updateinfo": "<br><br>更新内容(2024-03-19)：<br>1、增加下载文件功能<br>2.其它一些改进。"
 }
