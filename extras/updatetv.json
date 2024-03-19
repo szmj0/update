@@ -1,8 +1,8 @@
 {
     "appname": "szmjtv.apk",
-    "version": "6.8.2023091301",
+    "version": "6.9.2024010901",
     "pageID":  "Dr8tb",
-    "size": "6139150",
-    "sha512": "e5ceb4d30984a3ef34794c3572a3ff2db695dc83845ff8cab97d7554dd43c367b629859fab44e544ad917d07a3545d3b765d19ed1a9d630f6f1610fef5896c1b",
-    "updateinfo": "<br><br>更新内容(2023-08-12)：<br>1、简化更新程序的方法。"
+    "size": "6159173 ",
+    "sha512": "2575c91c24d8a2c45c948a363baa39050fca3b8d157c347f38432f8dfb0d915ef83b9c13837414204854fcaf47491ed35647b90694c95be2e36819aa89a2cbe2",
+    "updateinfo": "<br><br>更新内容(2023-08-12)：<br>1.增加下载文件功能。<br>2.其它一些改进。"
 }
