@@ -167,7 +167,7 @@ http://qikan.minghui.org/qikan.aspx?id=210653
 >#### 1、（5789尺寸）<a href='https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq89_2025xn.zip'>cfq89_2025xn.zip</a>
 >sha512: `f0a41d981d04dc1660f4a204223340a17793213abe17ebade7be21f1bf73fa3ae9f4ef441f3de75f6325dd5da91c14ba2632d741b8aa4b1623a825a9501e0f0c`
 >  (2024-12-07上传 7 MB) 
-#### 2、（5793尺寸）<a href='https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq93_2025xn.zip'>cfq93_2025xn.zi</a>
+#### 2、（5793尺寸）<a href='https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq93_2025xn.zip'>cfq93_2025xn.zip</a>
 >sha512: `fe5664d6e6644453e67cb838ac8906884245894a61d29262ea147589fa7c7ccb5efb9996048f043b34abe6367696d370ab36445f27142c12fdfbd51809469b01`
 >  (2024-12-07上传 7.24 MB) 
 
