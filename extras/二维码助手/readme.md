@@ -161,5 +161,10 @@ http://qikan.minghui.org/qikan.aspx?id=210653
 >  (2024-02-07上传 1.67 MB) 
 #### 2、（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx93jw.zip'>czx93jw.zip</a>
 >sha512: `771A663E21C414555B21F59BEFE6F1DB5C4412858488DE3E31FDAFED8EBF118B1175A31868813B04C9B69AA08ACA45E7712C0B4BE80A5073DC8957D498D5C7AA`
-> (2024-02-07上传 1.6 MB) 
+> (2024-02-07上传 1.6 MB)
+二十四、二维码卡片 pdf 模板 说明：6款新年卡和增加1款真相卡《我们告诉未来》（同尺寸的打包在一起了）。
+>#### 1、（5789尺寸）<a href='https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq89_2025xn.zip'>cfq89_2025xn.zip</a>
+>  (2024-12-07上传 7 MB) 
+#### 2、（5793尺寸）<a href='https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq93_2025xn.zip'>cfq93_2025xn.zi</a>
+>  (2024-12-07上传 7.24 MB) 
 
