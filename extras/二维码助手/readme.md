@@ -169,5 +169,9 @@ http://qikan.minghui.org/qikan.aspx?id=210653
 >  (2024-12-07上传 7 MB) 
 #### 2、（5793尺寸）<a href='https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq93_2025xn.zip'>cfq93_2025xn.zip</a>
 >sha512: `fe5664d6e6644453e67cb838ac8906884245894a61d29262ea147589fa7c7ccb5efb9996048f043b34abe6367696d370ab36445f27142c12fdfbd51809469b01`
->  (2024-12-07上传 7.24 MB) 
+>  (2024-12-07上传 7.24 MB)
+二十五、神州明见主题的翻墙卡
+>#### 1、（5789尺寸）<a href='[https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89jw.zip'>cfq89szmj.zip</a>
+>sha512:
+>  (2025-07-11上传 5.22 MB) 
 
