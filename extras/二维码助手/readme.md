@@ -149,17 +149,17 @@ http://qikan.minghui.org/qikan.aspx?id=210653
 【图片素材】大法弟子创作的书法篆刻作品（png已抠图）
 
 二十二、三退卡和真相卡更新（pdf 模板文件，更新三退人数到超 4 亿 ）
-#### 1、（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/stc4y89.zip'>stc4y89.zip</a>
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/stc4y89.zip'>stc4y89.zip</a>
 >sha512: `F0395AB37E89AAD8171D836039C5684BAFF35DCD686707960D7EC43E943D2FEEF9F44647570F33BB9071E882759EC3912699789230BAC6E52E57232A8A23E3FD`
-#### 2、（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/stc4y93.zip'>stc4y93.zip</a>
+#### 2（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/stc4y93.zip'>stc4y93.zip</a>
 >sha512: `C59A4E453394B26582C77C9928E946CD994C5CDAA4F5413DFB6BD28CF27BA9BA965DAB2BAF0DBFE17A6F57AE7EC05C3EB8A6CA7EEF4723505DB96D92ED8CD37A`
 
 二十三、二维码卡片 pdf 模板
 说明：请会员自己把握合适的发放方式。
->#### 1、（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89jw.zip'>czx89jw.zip</a>
+>#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89jw.zip'>czx89jw.zip</a>
 >sha512: `15F044048F86B5D90C0D878453A51197D9D720A1F1441F893D70CC865C0E4CCDA43937282D4F9B2CABD9B024AAEA37B05A32330639294F04C8D274D83B83D3C3`
 >  (2024-02-07上传 1.67 MB) 
-#### 2、（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx93jw.zip'>czx93jw.zip</a>
+#### 2（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx93jw.zip'>czx93jw.zip</a>
 >sha512: `771A663E21C414555B21F59BEFE6F1DB5C4412858488DE3E31FDAFED8EBF118B1175A31868813B04C9B69AA08ACA45E7712C0B4BE80A5073DC8957D498D5C7AA`
 > (2024-02-07上传 1.6 MB)
 
@@ -172,7 +172,7 @@ http://qikan.minghui.org/qikan.aspx?id=210653
 >  (2024-12-07上传 7.24 MB)
 
 二十五、神州明见主题的翻墙卡
->#### 1、（5789尺寸）<a href='[https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89jw.zip'>cfq89szmj.zip</a>
+>#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89jw.zip'>cfq89szmj.zip</a>
 >sha512:
 >  (2025-07-11上传 5.22 MB) 
 
