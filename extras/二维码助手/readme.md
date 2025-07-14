@@ -183,9 +183,9 @@ http://qikan.minghui.org/qikan.aspx?id=210653
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/4in1card.zip'>4in1card.zip</a>
 >sha512: `CABEE76249383ACAB9702C9DA5EC18617BA81484506528C37DD82D45A5A5A0FFA3939295FE470A5EE55937EA94086C0FEDC9E0BE9DA4FAEE49FC75E5BB8E92F2`
 >  (2025-07-11上传 3.8 MB) 
-#### 2（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1zy.part1.rar'>2in1zy.part1.rar</a>
+#### 2-1（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1zy.part1.rar'>2in1zy.part1.rar</a>
 >sha512: `E74CA13BC065C249AEC1E60E1D7243C598F5C6534912ED7098CDA4743354A6DB1D3EA0AAA368C5F55A4FB1A628CCF9FCBA403C9CC785248299421178A14E1F6E`
 >  (2025-07-11上传 15 MB)
->#### 2（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1zy.part2.rar'>2in1zy.part2.rar</a>
+#### 2-2（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1zy.part2.rar'>2in1zy.part2.rar</a>
 >sha512: `799DF08F6EEFB324C66A6924B0AF2BD78CF342012670BC2F8368EAD2EB50AA4B736FFC534B96AA751E1A3B0EE933621A38D1C36706203FE6DC40279101CA9709`
 >  (2025-07-11上传 14 MB)
