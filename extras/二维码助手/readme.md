@@ -180,12 +180,20 @@ http://qikan.minghui.org/qikan.aspx?id=210653
 >  (2025-07-11上传 5.44 MB)
 
 二十六、4in1 卡片（1款，正面和背面一套）和 2in1 折页（4款封面，6款内页，封面和内页可以随意搭配）
-#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/4in1card.zip'>4in1card.zip</a>
+#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/4in1card.zip'>4in1card.zip</a>
 >sha512: `CABEE76249383ACAB9702C9DA5EC18617BA81484506528C37DD82D45A5A5A0FFA3939295FE470A5EE55937EA94086C0FEDC9E0BE9DA4FAEE49FC75E5BB8E92F2`
 >  (2025-07-11上传 3.8 MB) 
-#### 2-1（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1zy.part1.rar'>2in1zy.part1.rar</a>
+#### 2-1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1zy.part1.rar'>2in1zy.part1.rar</a>
 >sha512: `E74CA13BC065C249AEC1E60E1D7243C598F5C6534912ED7098CDA4743354A6DB1D3EA0AAA368C5F55A4FB1A628CCF9FCBA403C9CC785248299421178A14E1F6E`
 >  (2025-07-11上传 15 MB)
-#### 2-2（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1zy.part2.rar'>2in1zy.part2.rar</a>
+#### 2-2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1zy.part2.rar'>2in1zy.part2.rar</a>
 >sha512: `799DF08F6EEFB324C66A6924B0AF2BD78CF342012670BC2F8368EAD2EB50AA4B736FFC534B96AA751E1A3B0EE933621A38D1C36706203FE6DC40279101CA9709`
 >  (2025-07-11上传 14 MB)
+
+二十七、4in1 卡片（1款，正面和背面一套）和 2in1 折页（6款内页，4款封面，内页和封面可以随意搭配）
+#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/4in1u.zip'>4in1u.zip</a>
+>sha512: `69A49E09DA83F0F6B001119099958C49E0DEB8DBEF7783578C0E5997D0E41D533379F78A145F3F17066F5959CC41CD57FF85D32E9B4BEEAADF045402C7591112`
+>  (2025-07-12上传 2.34 MB) 
+#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1u.zip'>2in1u.zip</a>
+>sha512: `5834C776EF0E185A5963A8FCB3793D7C59B187BCB445A82F64B8C2C90B0541D288387D46980314E524E86FBEC28200F8CC89A7FCE54602BC93CC6D1CE74E2625`
+>  (2025-07-12上传 16.59 MB) 
