@@ -208,3 +208,9 @@ http://qikan.minghui.org/qikan.aspx?id=210653
 #### 1-2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1u2.part2.rar'>2in1u2.part2.rar</a>
 >sha512: `A752CB0BD28F8424D762F41F0AD84BA7FE45347E6F35F44934436DBC7C3C7E57DA63AF2F772DF013243243DD9D5B377D9FCBBA3160DF845C863E195F98C32414`
 >  (2025-07-19上传 14.2 MB)
+
+二十九：4in1 卡片封面（8款）
+#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/4in1u2.zip'>4in1u2.zip</a>
+>sha512: `6575f98a28db9b3fd04925d3076da49bd8a6262b40b59ff0044ffbdc2258352dbcd6127e796fa2770511ecb4ab79e988b6cc9f094e3d7c54463d87d0eaf11a7a`
+>  (2025-07-22上传 9.56 MB) 
+
