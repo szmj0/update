@@ -202,15 +202,18 @@ http://qikan.minghui.org/qikan.aspx?id=210653
 >   (2025-09-26上传 20.91 MB) 
 
 二十八：2in1 折页（5款封面，13款内页）
-目前所有 2in1 折页的内页和封面都可以随意搭配（包括之前已经发布的版本）。
-其中，内页是“预言与人生”的，是有人反馈扫码情况较好加入的，是否使用请发放会员自行把握。
+配台历的二维码（4in1 竖版 13 款，5in1 竖版 17 款，2in1 横版 1 款，单面打印，可以粘在台里架上），配合挂历的二维码 1 款，
+可以打印在最后一面的背面（其中，内容是“预言与人生”的，是有人反馈扫码情况较好加入的，是否使用请发放会员自行把握）。
 
-#### 1-1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1u2.part1.rar'>2in1u2.part1.rar</a>
->sha512: `43FA79337BB2D8CE97F76A5854FF04781081AEDAB3EFE0BCFC566DCAAF77784ED8596941BC8184F148D1AADDDCE9E55018964769E7CAF6E948C05FBBCFF4E973`
->  (2025-07-19上传 16 MB)
-#### 1-2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1u2.part2.rar'>2in1u2.part2.rar</a>
->sha512: `A752CB0BD28F8424D762F41F0AD84BA7FE45347E6F35F44934436DBC7C3C7E57DA63AF2F772DF013243243DD9D5B377D9FCBBA3160DF845C863E195F98C32414`
->  (2025-07-19上传 14.2 MB)
+#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/4in1tl01.zip'>4in1tl01.zip</a>
+>sha512: `233180f2d5d287d98e54b307327c531c576f75f792455ae00999f992f5dc28f14f071bff786fd50e260e197facb12c61f60d834bf9dd591952a8c30ddf549461`
+>  (2025-09-26上传 15.37 MB)
+#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/5in1tl01.zip'>5in1tl01.zip</a>
+>sha512: `54b96969b08f7480a5a2e1e5f619c9195a6d94997daa01f88d5f178524355ce5e6ca89b5457930ef5ffb23d290dc4afa0bbc06f2778988b3de732af54fed2b54`
+>  (2025-09-26上传 17.11 MB)
+#### 3 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/yy_nl01.zip'>yy_nl01.zip</a>
+>sha512: `322dc33e717dd2294e1f431f146156deaaaa24c6bc25907c8f830cbf87e265fe7f45e51c1f956adfaad43b0786f76862ba713742905f644561568b7a3301c688`
+>  (2025-09-26上传 6.29 MB)
 
 二十九：4in1 卡片封面（8款）
 #### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/4in1u2.zip'>4in1u2.zip</a>
