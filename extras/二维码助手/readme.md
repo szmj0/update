@@ -196,13 +196,10 @@ http://qikan.minghui.org/qikan.aspx?id=210653
 >sha512: `3961775383a0d0aea96df36147d31893f010aab08e1e3477b7e1a33f5044c913e686656a164b6633a12e7b57326d9b4e3d21c78321cee0dfca3728318bc864a5`
 >  (2025-09-26上传 17.45 MB)
 
-二十七、4in1 卡片（1款，正面和背面一套）和 2in1 折页（6款内页，4款封面，内页和封面可以随意搭配）
-#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/4in1u.zip'>4in1u.zip</a>
->sha512: `69A49E09DA83F0F6B001119099958C49E0DEB8DBEF7783578C0E5997D0E41D533379F78A145F3F17066F5959CC41CD57FF85D32E9B4BEEAADF045402C7591112`
->  (2025-07-12上传 2.34 MB) 
-#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1u.zip'>2in1u.zip</a>
->sha512: `5834C776EF0E185A5963A8FCB3793D7C59B187BCB445A82F64B8C2C90B0541D288387D46980314E524E86FBEC28200F8CC89A7FCE54602BC93CC6D1CE74E2625`
->  (2025-07-12上传 16.59 MB)
+二十七、4in1卡片（15款正面，一款背面，封面和内页可以随意搭配）
+#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/4in1u01.zip '>4in1u01.zip </a>
+>sha512: `9a639346384edd08fd39a85565f9fd0b059e4723a86477561d9ab0282003e344c049447f97507263c9e0888b0bd3bc712225b838e218f954ac24eb3838423436`
+>   (2025-09-26上传 20.91 MB) 
 
 二十八：2in1 折页（5款封面，13款内页）
 目前所有 2in1 折页的内页和封面都可以随意搭配（包括之前已经发布的版本）。
