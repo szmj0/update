@@ -34,23 +34,29 @@
 >sha512:  `8854d740dc7242b4ee766bb84821e6e1e3e9e9a49242518f54dd67b38b77f167e1df20553d41a3c04cb8e2771502e19dc769b6db2c8d71a006deebe005a8d6c1`
 >  (2025-09-29上传 5.93 MB) 
 
-六、为你而来（一）、（二）
-#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys89wnel12.rar'>cys89wnel12.rar</a>
+六、为你而来（一）、（二）（共4款）
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys89wnel12.zip'>cys89wnel12.zip</a>
 >sha512:  `b5009393cf77ff9b59eaf23be6b18f3b7aa0e2b2b34d2cb2ba9eacb564c81c3f6db24e372074f45acdf88be37713eee46e80a210313f73d82ec2601c7178cdb1`
-#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys93wnel12.rar'>cys93wnel12.rar</a>
+>  (2025-09-29上传 2.73 MB) 
+#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys93wnel12.zip'>cys93wnel12.zip.rar</a>
 >sha512:  `0cf66e280a28cd0bd1f24a26e4f0afd40ded0f393f7736d9e1fd9048195fa2be2c3d01dbfd2d89a24f91c4170b450b5de108680bdd3462af076753f3f3aa158b`
+>  (2025-09-29上传 2.8 MB)
 
-七、翻墙小不干胶：一页有不同颜色的拼版。
-#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/pfq89.rar'>pfq89.rar</a>
+七、翻墙小不干胶（一页有10种不同颜色的拼版）
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/pfq8901.zip'>pfq8901.zip</a>
 >sha512:  `abc0739c5d6ded5c84bb9ef48555caf878bb528d5ed6229715d47f3bcc1500a7b50a0720b6c0ecaaa786df37e71f820949cc2728341061e41e2d4d40ad0c649c`
-#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/pfq93.rar'>pfq93.rar</a>
+>  (2025-09-29上传 4.85 MB) 
+#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/pfq9301.zip'>pfq9301.zip</a>
 >sha512:  `4588fc2b461e10915ac37d81610159ff5ea554426d59f45ec4b72531ea6ca79322b6d1fd4ca75259e430e94b3270b48ba1ee9db41841b43dadbf5722dad88118`
+>  (2025-09-29上传 4.97 MB) 
 
-八、危难时刻、路遇
-#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cmv8902.rar'>cmv8902.rar</a>
+八、微电影（《危难时刻》、《路遇》共3款）
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cmv8902.zip'>cmv8902.zip</a>
 >sha512:  `6a1145eea6c849541c991c467f0b4f9532aa4adf213f02b8064b534e83304ddac44b5bca13d4be7e2181e7da9dd2606b8aa6fc6c801d9d11fcd2f346ce518728`
-#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cmv9302.rar'>cmv9302.rar</a>
+>  (2025-09-29上传 2.19 MB) 
+#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cmv9302.zip'>cmv9302.zip</a>
 >sha512:  `e25ef54934067405432d5829f9d28a0a9713e42346644f0545708fbf87c4ab65cbb6aaf1fdc5f23f4da544d398d208b1c3802d91daceb6791dd97cbed59e3699`
+>  (2025-09-29上传 2.21 MB) 
 
 九、风景翻墙卡 (20211031修)
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq89aowrw.rar'>cfq89aowrw.rar</a>
