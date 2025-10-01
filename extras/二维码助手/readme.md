@@ -20,10 +20,10 @@
 
 四、预言（共3款）
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cyy89.zip'>cyy89.zip</a>
->sha512:  `d73d38077be88bcfc2fd80fa36b47bdacd93d2bf575d9aa3056cf5bb5f20a8813b90ec80d65763b521a839ec008dcc189fc1ca1a3691226893e4e4a75b3e02f8`
+>sha512:  `3354e0102b339b46f971427fc5e0859824916552bd80af321bb7c29a01bf20b5d95f0689d4e2f4a3fde11ad5f5393c3d0cebdacc336ed78471f774bac2ce5873`
 >(2025-09-29上传 3.11 MB) 
 #### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cyy93.zip'>cyy93.zip</a>
->sha512:  `30de48aa71caf7c353247d6c75f4b03fe56f6981cf9b568491d2bacbdac0b3fa97eb5aec39a9a65aebd1299f3d9e0af8d202b7d14bd490fda0dfed1d582a58fd`
+>sha512:  `c53372b63643e712a9e013bd7eef126c56db4e7886a48ce31067295aa117fdd30c4fd7a5c223ac42d313774d5530579fb41b19da84a695a350e552530e8be0e8`
 >(2025-09-29上传 3.16 MB)
 
 五、真相01
