@@ -1,4 +1,4 @@
-## 2021-10-31上传：
+## 2025-09-29上传：
 
 一、明慧短视频（黄晓敏等 共12款）
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cmv8901.zip'>cmv8901.zip</a>
@@ -82,32 +82,37 @@
 >sha512:  `24d5b6e6bab924bf12b1080c3a14ad8282ef6bbf8be4d710fa2cb3a92ad684c6b20420b7f817899279e785c6fcd6046545a5d6eb707793e7c152c9cf515f0093`
 >  (2025-09-29上传 797.89 KB)  
 
-十二、翻墙卡（pdf模板）：青花瓷系列 (20211027修)
-#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq89qh.rar'>cfq89qh.rar</a>
+十二、翻墙卡（《青花瓷》系列，共8款）
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq89qh.zip'>cfq89qh.zip</a>
 >sha512:  `63df6076564bdb8b3cffa91a2d53cbfbacae2b6622e9b09cacca600318b54021c0908ebb42a5b89ccdae82e7a3e92694fdbf22c522902258c7465251101bf87e`
-#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq93qh.rar'>cfq93qh.rar</a>
+>  (2025-09-29上传 6.91 MB) 
+#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq93qh.zip'>cfq93qh.zip</a>
 >sha512:  `566e657de8146482244e9c4a5b23d08681338c12c41362672a55ab26ae0b64081dce822e2a10a34f21976077de3874c927591a96bb439542c442d075c6dddc22`
+>  (2025-09-29上传 6.83 MB) 
 
-## 19 10月 2021 上传：
-十三、真相卡02（pdf模板）：
-#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx0289.rar'>czx0289.rar</a>
->sha512:  `067346636C63BCF511E63C82D5CB2E9CE4415A63099EB2A15A2ADDF7DA876FBFA5AA0EAFC8F60DA0211913104DD7185E42B43CB9A151429F94046CD764EFC135`  
-#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx0293.rar'>czx0293.rar</a>
+十三、真相卡02（《风雨天地行》、《九评》、《共产主义的终极目的》、《魔鬼在统治着我们的世界》、《我们告诉未来》，共8款）
+#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8902.zip'>czx8902.zip</a>
+>sha512:  `067346636C63BCF511E63C82D5CB2E9CE4415A63099EB2A15A2ADDF7DA876FBFA5AA0EAFC8F60DA0211913104DD7185E42B43CB9A151429F94046CD764EFC135`
+>  (2025-09-29上传 7.2 MB) 
+#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9302.zip'>czx9302.zip</a>
 >sha512:  `C069A9E4D910BDE57960ED6B37F51669B6FBD4C1114F33C0572A709EBB6C4B299E09F50DF61D5C18EF8DDDB24A7943F6224383190EA8FD05ADD1D0A1B9F3D594`
+>  (2025-09-29上传 7.68 MB) 
 
-## 13 11月 2021 上传：
-十四、真相卡03（pdf模板）
-#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8903.rar'>czx8903.rar</a>
+十四、真相卡03（《解体党文化》、《漫谈党文化》共2款，93尺寸多一款「真相和谎言」）
+#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8903.zip'>czx8903.zip</a>
 >sha512:  `6c473c36a49122e0466a09ec125de2889b784b9375ed3ff7ea64cabe12a4188ef58f6a96a2f4da7a033228b88c93974bb4ab9f7acf3b3649dd6b698de58d32f9`
-#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9303.rar'>czx9303.rar</a>
+>  (2025-09-29上传 2.01 MB)
+#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9303.zip'>czx9303.zip</a>
 >sha512:  `68f10d342130412d9eb148b8f9d37e62ca62331b9dcd5e7917c6d738cc605cff3d1068474dc2fec5a177a8360c4e83811da3b056c68f882f65e6e8051cc1eefa`
+>  (2025-09-29上传 3.32 MB) 
 
-
-十五、三退卡01（pdf模板）
-#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cst8901.rar'>cst8901.rar</a>
+十五、三退卡01（共5款）
+#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cst8901.zip'>cst8901.zip</a>
 >sha512:  `a04e28620049f1b9a281ff05a4c3efabeaa818683465dd211b5000a48a8b75b1738a9dec55f17f98f6f8ee75b66abdbe0469e1111a72c9680dbcfd17d6e90428`
-#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cst9301.rar'>cst9301.rar</a>
+>  (2025-09-29上传 6.24 MB) 
+#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cst9301.zip'>cst9301.zip</a>
 >sha512:  `9b67c4e03d6ac8a2a8a18c71568fae01302eb428d30939b904835fecf46c0c3918e5f6e08206b07ebcb947bf0c1303e7b7c59650ed36383630020d0d7fbf449e`
+>  (2025-09-29上传 6.42 MB)
 
 ## 22 12月 2021 上传：
 十六、真相卡04 （pdf模板），带位置提示 
