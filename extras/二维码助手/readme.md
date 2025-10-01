@@ -18,11 +18,13 @@
 
 三、節日翻墙卡 (2023-1-4上传)
 
-四、预言
-#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cyy89.rar'>cyy89.rar</a>
+四、预言（共3款）
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cyy89.zip'>cyy89.zip</a>
 >sha512:  `d73d38077be88bcfc2fd80fa36b47bdacd93d2bf575d9aa3056cf5bb5f20a8813b90ec80d65763b521a839ec008dcc189fc1ca1a3691226893e4e4a75b3e02f8`
-#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cyy93.rar'>cyy93.rar</a>
+>(2025-09-29上传 3.11 MB) 
+#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cyy93.zip'>cyy93.zip</a>
 >sha512:  `30de48aa71caf7c353247d6c75f4b03fe56f6981cf9b568491d2bacbdac0b3fa97eb5aec39a9a65aebd1299f3d9e0af8d202b7d14bd490fda0dfed1d582a58fd`
+>(2025-09-29上传 3.16 MB)
 
 五、真相01
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8901.rar'>czx8901.rar</a>
