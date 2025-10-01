@@ -84,34 +84,34 @@
 
 十二、翻墙卡（《青花瓷》系列，共8款）
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq89qh.zip'>cfq89qh.zip</a>
->sha512:  `63df6076564bdb8b3cffa91a2d53cbfbacae2b6622e9b09cacca600318b54021c0908ebb42a5b89ccdae82e7a3e92694fdbf22c522902258c7465251101bf87e`
+>sha512:  `b1b75a13f1bceef345bc9355dead9fb819f22b7ce2c3bd79e4a1b3b06afacf5c87badb71306eda0251700ca5e1fa35dec5e65cadeaceb27f44947057361be4d6`
 >  (2025-09-29上传 6.91 MB) 
 #### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq93qh.zip'>cfq93qh.zip</a>
->sha512:  `566e657de8146482244e9c4a5b23d08681338c12c41362672a55ab26ae0b64081dce822e2a10a34f21976077de3874c927591a96bb439542c442d075c6dddc22`
+>sha512:  `a81df1ac17be8e47900e795564b970cf5b4c1bbc356df15fd20518082c11ef7cdc05394f94eb802387a1b72f4ce68d0e7afe1289b9e43de1b0f02196cbb229f5`
 >  (2025-09-29上传 6.83 MB) 
 
 十三、真相卡02（《风雨天地行》、《九评》、《共产主义的终极目的》、《魔鬼在统治着我们的世界》、《我们告诉未来》，共8款）
 #### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8902.zip'>czx8902.zip</a>
->sha512:  `067346636C63BCF511E63C82D5CB2E9CE4415A63099EB2A15A2ADDF7DA876FBFA5AA0EAFC8F60DA0211913104DD7185E42B43CB9A151429F94046CD764EFC135`
+>sha512:  `1d330a15e68cbae7d9148f987bb3876786bacc58101c4fdb8c388110b1c7eb141f210131f6549537d2d4fc86ccea58026a254238c23c91ff71f3e318124abb73`
 >  (2025-09-29上传 7.2 MB) 
 #### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9302.zip'>czx9302.zip</a>
->sha512:  `C069A9E4D910BDE57960ED6B37F51669B6FBD4C1114F33C0572A709EBB6C4B299E09F50DF61D5C18EF8DDDB24A7943F6224383190EA8FD05ADD1D0A1B9F3D594`
+>sha512:  `940669a4a4f99696bf41d825d7b2adb00d51fb4384361bf21f4f22d7de33098235810a558bf0988d22e36bd855c2515b0a64f91f9780fc3faf27f78da5bd7eac`
 >  (2025-09-29上传 7.68 MB) 
 
 十四、真相卡03（《解体党文化》、《漫谈党文化》共2款，93尺寸多一款「真相和谎言」）
 #### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8903.zip'>czx8903.zip</a>
->sha512:  `6c473c36a49122e0466a09ec125de2889b784b9375ed3ff7ea64cabe12a4188ef58f6a96a2f4da7a033228b88c93974bb4ab9f7acf3b3649dd6b698de58d32f9`
+>sha512:  `c694b6c2693dadfa9a9b17fe9d879b706b05406b434e4fe3b39e77cce079ff53aa73bbde8740afafa60942ded778facccabb111c12caefce76f5ebddd0d0aab8`
 >  (2025-09-29上传 2.01 MB)
 #### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9303.zip'>czx9303.zip</a>
->sha512:  `68f10d342130412d9eb148b8f9d37e62ca62331b9dcd5e7917c6d738cc605cff3d1068474dc2fec5a177a8360c4e83811da3b056c68f882f65e6e8051cc1eefa`
+>sha512:  `3d102d4d187b4710730fa9024d6ccae2b0b6b85995bb726532fced399a717f1d431aa2cb7402b4dd4188e5289b1c8ea8dabbc6a7d7f8f366e6f52bf096264b3d`
 >  (2025-09-29上传 3.32 MB) 
 
 十五、三退卡01（共5款）
 #### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cst8901.zip'>cst8901.zip</a>
->sha512:  `a04e28620049f1b9a281ff05a4c3efabeaa818683465dd211b5000a48a8b75b1738a9dec55f17f98f6f8ee75b66abdbe0469e1111a72c9680dbcfd17d6e90428`
+>sha512:  `35f7b8ee711a067518817be1b908f7f9538d1fcb071b369f916c480aa58dec0515655c3440fe72f8ae3b2e606bbf43e7d1afa55822bc90405e8739772945cdd2`
 >  (2025-09-29上传 6.24 MB) 
 #### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cst9301.zip'>cst9301.zip</a>
->sha512:  `9b67c4e03d6ac8a2a8a18c71568fae01302eb428d30939b904835fecf46c0c3918e5f6e08206b07ebcb947bf0c1303e7b7c59650ed36383630020d0d7fbf449e`
+>sha512:  `85bbcca05bb585ea0f31d46223d82f6cb417eb46a0956ea846024d029b8f784b0611d3a93b7722586b8cef5eff26f58cf5d562081c8527be2fc94fae4a29a673`
 >  (2025-09-29上传 6.42 MB)
 
 ## 22 12月 2021 上传：
