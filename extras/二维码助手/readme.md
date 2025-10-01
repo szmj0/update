@@ -28,10 +28,10 @@
 
 五、真相卡01（《藏字石》、《伪火》、《四二五真相》、《1400例》等 共8款）
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8901.zip'>czx8901.zip</a>
->sha512:  `e2d5b8e177efc63a7c1cedc7bbdc97da50e54f17b93707ad5766faf7675d0efd8dd514685b02623c2fc1e7db73444fc827e03e6479030360190bc23fb07d3c9d`
+>sha512:  `7ef8e6c7944bfd68ba7af61763c44b5b64a4e2e62d7071f82abfc87e9dbf9be671962c97dd0c4bb57101af4830c40a36d6eea7aa33f420618323c95f98b01717`
 >  (2025-09-29上传 5.86 MB)
 #### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9301.zip'>czx9301.zip</a>
->sha512:  `b91f74b08a627e9f3843d17014886a4a3df66dda49ec509a4fe5ec5c895e92559d8a44ff0ac6e80b1403789ab6d268c765585b987010643558669d8392918793`
+>sha512:  `8854d740dc7242b4ee766bb84821e6e1e3e9e9a49242518f54dd67b38b77f167e1df20553d41a3c04cb8e2771502e19dc769b6db2c8d71a006deebe005a8d6c1`
 >  (2025-09-29上传 5.93 MB) 
 
 六、为你而来（一）、（二）
