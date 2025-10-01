@@ -91,26 +91,26 @@
 >  (2025-09-29上传 6.83 MB) 
 
 十三、真相卡02（《风雨天地行》、《九评》、《共产主义的终极目的》、《魔鬼在统治着我们的世界》、《我们告诉未来》，共8款）
-#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8902.zip'>czx8902.zip</a>
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8902.zip'>czx8902.zip</a>
 >sha512:  `1d330a15e68cbae7d9148f987bb3876786bacc58101c4fdb8c388110b1c7eb141f210131f6549537d2d4fc86ccea58026a254238c23c91ff71f3e318124abb73`
 >  (2025-09-29上传 7.2 MB) 
-#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9302.zip'>czx9302.zip</a>
+#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9302.zip'>czx9302.zip</a>
 >sha512:  `940669a4a4f99696bf41d825d7b2adb00d51fb4384361bf21f4f22d7de33098235810a558bf0988d22e36bd855c2515b0a64f91f9780fc3faf27f78da5bd7eac`
 >  (2025-09-29上传 7.68 MB) 
 
 十四、真相卡03（《解体党文化》、《漫谈党文化》共2款，93尺寸多一款「真相和谎言」）
-#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8903.zip'>czx8903.zip</a>
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8903.zip'>czx8903.zip</a>
 >sha512:  `c694b6c2693dadfa9a9b17fe9d879b706b05406b434e4fe3b39e77cce079ff53aa73bbde8740afafa60942ded778facccabb111c12caefce76f5ebddd0d0aab8`
 >  (2025-09-29上传 2.01 MB)
-#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9303.zip'>czx9303.zip</a>
+#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9303.zip'>czx9303.zip</a>
 >sha512:  `3d102d4d187b4710730fa9024d6ccae2b0b6b85995bb726532fced399a717f1d431aa2cb7402b4dd4188e5289b1c8ea8dabbc6a7d7f8f366e6f52bf096264b3d`
 >  (2025-09-29上传 3.32 MB) 
 
 十五、三退卡01（共5款）
-#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cst8901.zip'>cst8901.zip</a>
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cst8901.zip'>cst8901.zip</a>
 >sha512:  `35f7b8ee711a067518817be1b908f7f9538d1fcb071b369f916c480aa58dec0515655c3440fe72f8ae3b2e606bbf43e7d1afa55822bc90405e8739772945cdd2`
 >  (2025-09-29上传 6.24 MB) 
-#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cst9301.zip'>cst9301.zip</a>
+#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cst9301.zip'>cst9301.zip</a>
 >sha512:  `85bbcca05bb585ea0f31d46223d82f6cb417eb46a0956ea846024d029b8f784b0611d3a93b7722586b8cef5eff26f58cf5d562081c8527be2fc94fae4a29a673`
 >  (2025-09-29上传 6.42 MB)
 
