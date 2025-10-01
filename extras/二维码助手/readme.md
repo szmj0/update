@@ -1,10 +1,12 @@
 ## 2021-10-31上传：
 
 一、明慧短视频
-#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cmv8901.rar'>cmv8901.rar</a>
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cmv8901.zip'>cmv8901.zip</a>
 >sha512:  `6722e72f27f714192863376bfa17c514f61ae78b9ffeca3ebb6539dd3bad378a621b3e669f98056d87a97622c4c05e452d19ed185814655e107ce56e03220044`
-#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cmv9301.rar'>cmv9301.rar</a>
+> (2025-09-29上传 8.73 MB) 
+#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cmv9301.zip'>cmv9301.zip</a>
 >sha512:  `5f5dbc6843aad1383b805f17d64ebf7ba7e83edbce6396819394478e57531385873d9169565f7a3343e30db0313907fafe1cb374fdf3a5b8b2c0897400a56b64`
+>(2025-09-29上传 8.84 MB)
 
 二、扶摇直上
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys89fyzs.rar'>cys89fyzs.rar</a>
