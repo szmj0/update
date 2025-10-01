@@ -60,26 +60,26 @@
 
 九、风景翻墙卡（一页有6个不同风景的拼版）
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq89aowrw.zip'>cfq89aowrw.zip</a>
->sha512:  `12b03f3484fbdde9aaa75588444af0b8a0a89240c50d4a4d57b1abc104a8607f9bf77baf9bc6bfd05370cd22aa7b69d40fd9c9f8298026b0c16d35e88fed3b9d`
+>sha512:  `c5c2fd68b07c01a7064edd2c365c97d9a2a915366ba6605b23f576f976b5d9ae3d6c53cbdc48bd24faf3b9873f7378f0bc51c3cf85a8e26a93d578c66c332b81`
 >  (2025-09-29上传 4.67 MB)
 #### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq93aowrw.zip'>cfq93aowrw.zip</a>
->sha512:  `8a9d71534ed08101ac39ccc87ca1cb7c2a4d459ee602f0f27a650d1689bea501e4d9e4e6d15c8cc6ba803286a8681c3ef5e0d553581e6ce567ca38617b90f279`
+>sha512:  `e27b04f38f510877586dac645e83764920e8dee1fc53c67a06b9be817968fc1aa64c93e171ea391d59cdc6f30b144806a16330e95e8dc4f79c179722b705caf2`
 >  (2025-09-29上传 4.71 MB) 
 
 十、翻墙卡（《俯瞰荷塘》系列，蓝色和绿色，共2款）
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq89ht.zip'>cfq89ht.zip</a>
->sha512:  `9660e3b50917173b0d504f4ddeddd99cf54310f78e81735a075bb009d21be02f987d557b24ce36bd9cb9ef981a1a469f1cffcdb3ac5d5dd04a964eccd50b3c12`
+>sha512:  `c23a2ef715f059ed041cf64f63b9311deec6841b0c2f9ba1a037fd2d59edc4e58d0493f5d53e3fc172802e9f0da257dfe0d610877411e35af6b01d36026ec0fc`
 >  (2025-09-29上传 8.65 MB) 
 #### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cfq93ht.zip'>cfq93ht.zip</a>
->sha512:  `eac4ed9c0befff5dc5d89a787b14f61f597a31c77d754732d17bd9d036b5d7d7e426dfba6f95ca53514bb8a84acc0c7bb06c8d6d014ab1ee6a645e2e701c6ced`
+>sha512:  `095daf7bf513497c110f42678a2b9b34b84112183ef88f037000f7e67aecefe1f74bf0a28d8d7b8a00c412ffb46e3473e2f1a5bf3265ebe19cb9aeec9465b10d`
 >  (2025-09-29上传 8.84 MB) 
 
 十一、亲友传真专用（1款）
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/qycz89.zip'>qycz89.zip</a>
->sha512:  `9660e3b50917173b0d504f4ddeddd99cf54310f78e81735a075bb009d21be02f987d557b24ce36bd9cb9ef981a1a469f1cffcdb3ac5d5dd04a964eccd50b3c12`
+>sha512:  `abce7d1a7f3de63c202d80548efeecc9b5c9ae527d311361ef7d7f3d64c9dac8321923ae2982a91d8c8c4419eb09b55bd661b550be90ca0b2a763390047734b4`
 >  (2025-09-29上传 922.63 KB) 
 #### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/qycz93.zip'>qycz93.zip</a>
->sha512:  `eac4ed9c0befff5dc5d89a787b14f61f597a31c77d754732d17bd9d036b5d7d7e426dfba6f95ca53514bb8a84acc0c7bb06c8d6d014ab1ee6a645e2e701c6ced`
+>sha512:  `24d5b6e6bab924bf12b1080c3a14ad8282ef6bbf8be4d710fa2cb3a92ad684c6b20420b7f817899279e785c6fcd6046545a5d6eb707793e7c152c9cf515f0093`
 >  (2025-09-29上传 797.89 KB)  
 
 十二、翻墙卡（pdf模板）：青花瓷系列 (20211027修)
