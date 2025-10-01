@@ -9,10 +9,12 @@
 >(2025-09-29上传 8.84 MB)
 
 二、扶摇直上
-#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys89fyzs.rar'>cys89fyzs.rar</a>
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys89fyzs.zip'>cys89fyzs.zip</a>
 >sha512:  `b9435826b146f48a492f86c8d7119ce60574256081f684531cb3b984514186de67a83dc6a7f3236e994735999b5695bb275cb69545ee0628b1a94b6904ce690d`
-#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys93fyzs.rar'>cys93fyzs.rar</a>
+>(2025-09-29上传 3.93 MB) 
+#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys93fyzs.zip'>cys93fyzs.zip</a>
 >sha512:  `bfdb3eb43241da2becf21ee8985aa150919eb1c874e0ea85827461734f0021257b0fa64ae32b4fc7a4a1440436f6e02f9cef07ea9602100d9b815878f0928bc0`
+>(2025-09-29上传 3.91 MB) 
 
 三、節日翻墙卡 (2023-1-4上传)
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89xnh.zip'>czx89xnh.zip</a>
