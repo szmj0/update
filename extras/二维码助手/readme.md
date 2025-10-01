@@ -131,11 +131,13 @@
 >sha512:  `27aace318c6b65044b392e8c757b8488f369a984b969143c4c595edeae7e70202a46e6c3a7f4b4ea561899c99e1a505e54768629d73313359b87aa51a4e60051`
 
 ## 2 3月 2022 上传：
-十八、翻墙小不干胶（pdf模板，黑白）
-#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/pfq89bw.rar'>pfq89bw.rar</a>
+十八、翻墙小不干胶（黑白，共2款）
+#### 1（5789尺寸） <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/pfq89bw01.zip'>pfq89bw01.zip</a>
 >sha512:  `f3f475c757be8ddf75fbb6ce0b42349869227cafae8353130daa454c72050d2b140ad135412b8ae9716f4f0d42a5ac519f6c44c9a9026eedfbff54d94fae97a6`
-#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/pfq93bw.rar'>pfq93bw.rar</a>
+>  (2025-09-29上传 326.36 KB) 
+#### 2（5793尺寸） <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/pfq93bw01.zip'>pfq93bw01.zip</a>
 >sha512:  `507989d48d06daa387d42f427f1a501197dc6fbcc24f16a4ca4ea500f4f40d8d376c8d2e28df38fb5bcccb3624512cda320bdf33f23b05445c54445bdf9f1889`
+>  (2025-09-29上传 332.96 KB) 
 
 ## 6 8月 2022 上传：
 十九、翻墙卡（古典山水、山水、雪境系列和迎客松共12款，pdf 模板）
