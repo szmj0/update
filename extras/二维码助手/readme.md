@@ -133,10 +133,10 @@
 ## 2 3月 2022 上传：
 十八、翻墙小不干胶（黑白，共2款）
 #### 1（5789尺寸） <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/pfq89bw01.zip'>pfq89bw01.zip</a>
->sha512:  `f3f475c757be8ddf75fbb6ce0b42349869227cafae8353130daa454c72050d2b140ad135412b8ae9716f4f0d42a5ac519f6c44c9a9026eedfbff54d94fae97a6`
+>sha512:  `5ff1af0a612713de14b7adf7f881246549a9f8a97b2c696b50a66282334ff451f388620f8ef06b6f8dda0d6c71cb787a6e3e1a91bf56d7ee3d1cb4f3168c95d5`
 >  (2025-09-29上传 326.36 KB) 
 #### 2（5793尺寸） <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/pfq93bw01.zip'>pfq93bw01.zip</a>
->sha512:  `507989d48d06daa387d42f427f1a501197dc6fbcc24f16a4ca4ea500f4f40d8d376c8d2e28df38fb5bcccb3624512cda320bdf33f23b05445c54445bdf9f1889`
+>sha512:  `16e879271608d3c94c729d0934a3a1f5086ee01c48438016c448552e26478d0e14386b3f14bd32e210e3145475c6bd93fbc5299f40a1f533c720bc8c5ceb4a72`
 >  (2025-09-29上传 332.96 KB) 
 
 ## 6 8月 2022 上传：
