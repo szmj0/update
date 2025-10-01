@@ -26,11 +26,13 @@
 >sha512:  `c53372b63643e712a9e013bd7eef126c56db4e7886a48ce31067295aa117fdd30c4fd7a5c223ac42d313774d5530579fb41b19da84a695a350e552530e8be0e8`
 >(2025-09-29上传 3.16 MB)
 
-五、真相01
-#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8901.rar'>czx8901.rar</a>
+五、真相卡01（《藏字石》、《伪火》、《四二五真相》、《1400例》等 共8款）
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8901.zip'>czx8901.zip</a>
 >sha512:  `e2d5b8e177efc63a7c1cedc7bbdc97da50e54f17b93707ad5766faf7675d0efd8dd514685b02623c2fc1e7db73444fc827e03e6479030360190bc23fb07d3c9d`
-#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9301.rar'>czx9301.rar</a>
+>  (2025-09-29上传 5.86 MB)
+#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9301.zip'>czx9301.zip</a>
 >sha512:  `b91f74b08a627e9f3843d17014886a4a3df66dda49ec509a4fe5ec5c895e92559d8a44ff0ac6e80b1403789ab6d268c765585b987010643558669d8392918793`
+>  (2025-09-29上传 5.93 MB) 
 
 六、为你而来（一）、（二）
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys89wnel12.rar'>cys89wnel12.rar</a>
