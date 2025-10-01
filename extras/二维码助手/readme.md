@@ -2,18 +2,18 @@
 
 一、明慧短视频
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cmv8901.zip'>cmv8901.zip</a>
->sha512:  `6722e72f27f714192863376bfa17c514f61ae78b9ffeca3ebb6539dd3bad378a621b3e669f98056d87a97622c4c05e452d19ed185814655e107ce56e03220044`
+>sha512:  `fd969387d41513cb60c2974cf5c7755e8cde8db7fe3012c079d4beb5c15c07ee63aedc1ef6df0b4c7f81d802640e65a305894ed1ef11eef2092789e27f4ebe13`
 > (2025-09-29上传 8.73 MB) 
 #### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cmv9301.zip'>cmv9301.zip</a>
->sha512:  `5f5dbc6843aad1383b805f17d64ebf7ba7e83edbce6396819394478e57531385873d9169565f7a3343e30db0313907fafe1cb374fdf3a5b8b2c0897400a56b64`
+>sha512:  `289b26f1440dbb354ff2df3ee8415c02160d7af6e102174d86f055fb3236594ce9258db75f24ab9c0cfaee96aa73ba068d6e39579e48db3993c87035c21c8da2`
 >(2025-09-29上传 8.84 MB)
 
 二、扶摇直上
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys89fyzs.zip'>cys89fyzs.zip</a>
->sha512:  `b9435826b146f48a492f86c8d7119ce60574256081f684531cb3b984514186de67a83dc6a7f3236e994735999b5695bb275cb69545ee0628b1a94b6904ce690d`
+>sha512:  `f478cad62d658bf4bc5eac8bbbf20d5deb80604b01a5e84cb47f4db3649b9cedffc866cf9154006a328c7876f93298063bfffd0539ff0955a080e7d9d197fe99`
 >(2025-09-29上传 3.93 MB) 
 #### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys93fyzs.zip'>cys93fyzs.zip</a>
->sha512:  `bfdb3eb43241da2becf21ee8985aa150919eb1c874e0ea85827461734f0021257b0fa64ae32b4fc7a4a1440436f6e02f9cef07ea9602100d9b815878f0928bc0`
+>sha512:  `2883d967c30d9ded41e3bc85d2b3cfe3c392bbada55297dc6a6ae9ec77aafbe058ec67204081c72437b3d6ae9d81dc5facc08214845ee20a3f2da86706ac2222`
 >(2025-09-29上传 3.91 MB) 
 
 三、節日翻墙卡 (2023-1-4上传)
