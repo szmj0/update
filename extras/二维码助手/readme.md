@@ -157,23 +157,8 @@
 
 ## 2023-11-23 上传：
 二十一、翻墙卡（新年卡 pdf 模板文件）
-#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx89xnhl.zip'>czx89xnhl.zip</a>
->sha512: `C7628C587F9D5DD4E228DB185BCC4C953EC4248C53AC041A454EED6B2D487835485B92B0454B5B0DDDCB55266D9D53AC8CC0977FB81E2520210229806AD604E2`
-
-#### 2 （5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx93xnhl.zip'>czx93xnhl.zip</a>
->sha512: `F240ED1F109D8B26B3EF855E7165B5F4DEE1D6171FD548551A76774AD83C1A5EEE5D67F0200982CDBD03201F3EE7BE36A5454D7BBDCA2B39143DC913E4AAE4E0`
-
-（需要解压到二维码助手的【二维码模板pdf】文件夹里）
-图片、文案均来自于明慧网的最新版的年画（正面图片和文案出自《福兆龙年》、《新年接福》，背面飞天出自《吉祥新年》）：
-http://qikan.minghui.org/qikan.aspx?id=210653
-篆刻印章是音像版的素材：
-【图片素材】大法弟子创作的书法篆刻作品（png已抠图）
 
 二十二、三退卡和真相卡更新（pdf 模板文件，更新三退人数到超 4 亿 ）
-#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/stc4y89.zip'>stc4y89.zip</a>
->sha512: `F0395AB37E89AAD8171D836039C5684BAFF35DCD686707960D7EC43E943D2FEEF9F44647570F33BB9071E882759EC3912699789230BAC6E52E57232A8A23E3FD`
-#### 2（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/stc4y93.zip'>stc4y93.zip</a>
->sha512: `C59A4E453394B26582C77C9928E946CD994C5CDAA4F5413DFB6BD28CF27BA9BA965DAB2BAF0DBFE17A6F57AE7EC05C3EB8A6CA7EEF4723505DB96D92ED8CD37A`
 
 二十三、二维码卡片 pdf 模板
 说明：请会员自己把握合适的发放方式。
