@@ -114,21 +114,21 @@
 >sha512:  `85bbcca05bb585ea0f31d46223d82f6cb417eb46a0956ea846024d029b8f784b0611d3a93b7722586b8cef5eff26f58cf5d562081c8527be2fc94fae4a29a673`
 >  (2025-09-29上传 6.42 MB)
 
-## 22 12月 2021 上传：
-十六、真相卡04 （pdf模板），带位置提示 
-《传奇时代》系列、《福字卡》和《看真相》。
-其中《福字卡》和《看真相》都可以作为通用的真相卡，没有特定的主题。
-#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx0489.rar'>czx0489.rar</a>
+十六、真相卡04（《传奇时代》系列、《福字卡》和《看真相》共。 其中《福字卡》和《看真相》没有特定的主题，都可以作为通用的真相卡）
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8904.zip'>czx8904.zip</a>
 >sha512:  `f192c9972e42f2d3707c22ce3e511550a6e00d03ae1a3f2c6419e50872f7a51403c6c818a7309d4bbe89583fae07cad127e9cbc1fbdecec327931a52f5c55252`
-#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx0493.rar'>czx0493.rar</a>
+>  (2025-09-29上传 11.4 MB)
+#### 2（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9304.zip'>czx9304.zip</a>
 >sha512:  `6f32f388c666bf7cb70917002e4f2c60d2f8c2497c5c2ef0d5057f28e87bcec5fed031a98e45cbcfda5e520c1e627fbe8dcb4c73d300c446712a012b758794a6`
+>  (2025-09-29上传 12.68 MB)
 
-## 11 1月 2022 上传：
-十七、疫情卡（pdf模板）
-#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cyq8901.rar'>cyq8901.rar</a>
+十七、疫情卡（共7款）
+#### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cyq8901.zip'>cyq8901.zip</a>
 >sha512:  `cb0a091083c95dd4bb219badc6f5de386d02ad31dd94552b84bb093e75004ed0a77b7a8ca8e46dd272a8438e897b21e66dc78f66a4183b0618d342b660b0d23d`
-#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cyq9301.rar'>cyq9301.rar</a>
+>  (2025-09-29上传 4 MB) 
+#### 2（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cyq9301.zip'>cyq9301.zip</a>
 >sha512:  `27aace318c6b65044b392e8c757b8488f369a984b969143c4c595edeae7e70202a46e6c3a7f4b4ea561899c99e1a505e54768629d73313359b87aa51a4e60051`
+>  (2025-09-29上传 4.27 MB)
 
 ## 2 3月 2022 上传：
 十八、翻墙小不干胶（黑白，共2款）
