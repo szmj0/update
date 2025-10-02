@@ -38,7 +38,7 @@
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys89wnel12.zip'>cys89wnel12.zip</a>
 >sha512:  `91e72fd4e0799bfbbac71569acb1b28a9b0d9fb518a8315a1e99a5b79ef2f6c6be27f43e61d6206758baed869a1b2de88d79133631fb3fb37cef182e0f0de8df`
 >  (2025-09-29上传 2.73 MB) 
-#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys93wnel12.zip'>cys93wnel12.zip.rar</a>
+#### 2 (5793尺寸) <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cys93wnel12.zip'>cys93wnel12.zip</a>
 >sha512:  `155e7551ca069505a4a7dea0b2f84d4c98803a7551b0a05cb7aac151bb3c4a8911af043c29063dc433d2671a3c98b69e36f9b69654c7d1c26a09e097c64d1f59`
 >  (2025-09-29上传 2.8 MB)
 
