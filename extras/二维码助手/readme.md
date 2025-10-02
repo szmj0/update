@@ -124,10 +124,10 @@
 
 十七、疫情卡（共7款）
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cyq8901.zip'>cyq8901.zip</a>
->sha512:  `cb0a091083c95dd4bb219badc6f5de386d02ad31dd94552b84bb093e75004ed0a77b7a8ca8e46dd272a8438e897b21e66dc78f66a4183b0618d342b660b0d23d`
+>sha512:  `96aec8012c86a0e262ef762bb1c6c29753eaaacc833d6af2176d9e956f741445730c3d57f751c724da6f8b12dbe47ace79b63c33e6d8ce7e22448338e00a711d`
 >  (2025-09-29上传 4 MB) 
 #### 2（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/cyq9301.zip'>cyq9301.zip</a>
->sha512:  `27aace318c6b65044b392e8c757b8488f369a984b969143c4c595edeae7e70202a46e6c3a7f4b4ea561899c99e1a505e54768629d73313359b87aa51a4e60051`
+>sha512:  `4fb0d79075730d5824b22a35a843c0c2ebe5c4f5b7d4a6a0e541dede586833529096791f90e5c1aec77ae72a4e148ed07cb2a95a464f69e024ec0fe515d06cc6`
 >  (2025-09-29上传 4.27 MB)
 
 ## 2 3月 2022 上传：
