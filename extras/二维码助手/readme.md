@@ -116,10 +116,10 @@
 
 十六、真相卡04（《传奇时代》系列、《福字卡》和《看真相》共。 其中《福字卡》和《看真相》没有特定的主题，都可以作为通用的真相卡）
 #### 1（5789尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx8904.zip'>czx8904.zip</a>
->sha512:  `f192c9972e42f2d3707c22ce3e511550a6e00d03ae1a3f2c6419e50872f7a51403c6c818a7309d4bbe89583fae07cad127e9cbc1fbdecec327931a52f5c55252`
+>sha512:  `1ff231b35417f7f2983bff01c52bf535036d8021a13f365529b53c5fc6e50f1e565d61f0b3e0eecb8ee105135f2a55898b3399e216d115d732102d37224e1f48`
 >  (2025-09-29上传 11.4 MB)
 #### 2（5793尺寸）<a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/czx9304.zip'>czx9304.zip</a>
->sha512:  `6f32f388c666bf7cb70917002e4f2c60d2f8c2497c5c2ef0d5057f28e87bcec5fed031a98e45cbcfda5e520c1e627fbe8dcb4c73d300c446712a012b758794a6`
+>sha512:  `c8ef81216e209359973232c7fdf8f6a068416200c78cdaba2a38f9cfdc9e3015a5cec64fd1275cec62ef2c69bb4c9ad0d45074dfe526242c5ba4d94e277ec489`
 >  (2025-09-29上传 12.68 MB)
 
 十七、疫情卡（共7款）
