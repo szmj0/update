@@ -220,3 +220,9 @@
 #### 3 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/yy_nl01.zip'>yy_nl01.zip</a>
 >sha512: `322dc33e717dd2294e1f431f146156deaaaa24c6bc25907c8f830cbf87e265fe7f45e51c1f956adfaad43b0786f76862ba713742905f644561568b7a3301c688`
 >  (2025-09-26上传 6.29 MB)
+
+二十九、配台历的横版 2in1 二维码卡片（1款，可以单面打印，也可以和 yy_nl01 中的 2in1 搭配在一起双面打印作为单独的卡片发放）
+
+#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1tl01g.zip'>2in1tl01g.zip</a>
+>sha512: `795e451140bcf340cc2fbde45bb4d0fcd8c478882e78060fc9d40f1f3d04f2c924812becd36e3991788492e210697b743e135c9a774e45aa27ee91d47a5d582c`
+>  (2025-10-01上传 1.32 MB) 
