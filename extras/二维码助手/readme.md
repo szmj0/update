@@ -130,7 +130,6 @@
 >sha512:  `4fb0d79075730d5824b22a35a843c0c2ebe5c4f5b7d4a6a0e541dede586833529096791f90e5c1aec77ae72a4e148ed07cb2a95a464f69e024ec0fe515d06cc6`
 >  (2025-09-29上传 4.27 MB)
 
-## 2 3月 2022 上传：
 十八、翻墙小不干胶（黑白，共2款）
 #### 1（5789尺寸） <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/pfq89bw01.zip'>pfq89bw01.zip</a>
 >sha512:  `5ff1af0a612713de14b7adf7f881246549a9f8a97b2c696b50a66282334ff451f388620f8ef06b6f8dda0d6c71cb787a6e3e1a91bf56d7ee3d1cb4f3168c95d5`
