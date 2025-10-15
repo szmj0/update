@@ -225,3 +225,12 @@
 #### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1tl01g.zip'>2in1tl01g.zip</a>
 >sha512: `795e451140bcf340cc2fbde45bb4d0fcd8c478882e78060fc9d40f1f3d04f2c924812becd36e3991788492e210697b743e135c9a774e45aa27ee91d47a5d582c`
 >  (2025-10-01上传 1.32 MB) 
+
+三十：2in1 折页（5款内页，可任意搭配之前的封面）；配合挂历的二维码 1 款， 可以打印在最后一面的背面（内容包括“预言与人生”，是有人反馈扫码情况较好加入的，是否使用请发放会员自行把握）。
+
+#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/2in1ug04.zip'>2in1ug04.zip</a>
+>sha512: `6f08265e9e54bb1fdc4ab88cb86f215614b2a944caf585bf66fab39dc87a6c15fc59e594b69a0930a38b526a453d27c1df834284ca5bf96aa14ef8c947533107`
+>   (2025-10-13上传 9.46 MB) 
+#### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/yy_nl02.zip'>yy_nl02.zip</a>
+>sha512: `3929cce7e2359d00364882e001eadc8fe40edb938bb014f96f3df8c8dd9cdd4fa93c47d40f52c8bb3510f24b0bba172bf1b508f4a0d83db6554e98dc5b919547`
+>  (2025-10-13上传 4.03 MB)
