@@ -234,3 +234,9 @@
 #### 2 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/yy_nl02.zip'>yy_nl02.zip</a>
 >sha512: `3929cce7e2359d00364882e001eadc8fe40edb938bb014f96f3df8c8dd9cdd4fa93c47d40f52c8bb3510f24b0bba172bf1b508f4a0d83db6554e98dc5b919547`
 >  (2025-10-13上传 4.03 MB)
+
+三十一：2in1 折页封面 2 款，内页 3 款；4in1 正面 2 款；2in1 横版 3 款；10in1 卡片 89/93 尺寸 1 款，A4 尺寸 3 款。共 17 个文件。
+
+#### 1 <a href='https://github.com/szmj0/update/blob/master/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/20251115.zip'>20251115.zip</a>
+>sha512: `2aeb74fdc15793d3b6b76935855f9f712cb8260d3e4d5914b0d8528b2719134e935f44fa6b04ebb862abfc08b8d645840a816672f70552044d2a6e7002524dcf`
+>   (2025-11-15上传 16.83 MB) 
